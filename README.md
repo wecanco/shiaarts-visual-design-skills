@@ -1,5 +1,7 @@
 # ShiaArts Visual Design Skills
 
+[نسخهٔ فارسی](README.fa.md)
+
 Evidence-bound Codex skills for creating original Persian religious and cultural visual designs, based on a public, attributed study of [ShiaArts](https://shiaarts.ir/).
 
 ## What is included
