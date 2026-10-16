@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "1253",
+    "name": "رسامی",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1253",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1476",
+    "name": "ایربراش و گواش",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1476",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1477",
+    "name": "هوش مصنوعی AI",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1477",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "148",
+    "name": "دیجیتال",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/148",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "149",
+    "name": "سه‌بعدی (3D)",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/149",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "150",
+    "name": "رنگ روغن",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/150",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "151",
+    "name": "رنگ و روغن",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/151",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "152",
+    "name": "آب‌رنگ",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/152",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "153",
+    "name": "اکرولیک",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/153",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "154",
+    "name": "گواش",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/154",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "155",
+    "name": "مداد رنگی",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/155",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "156",
+    "name": "پاستل",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/156",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "157",
+    "name": "میکس‌مدیا",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/157",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "158",
+    "name": "قلم و مرکب",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/158",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "159",
+    "name": "مداد",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/159",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "160",
+    "name": "کلاژ",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/160",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "161",
+    "name": "پاپیه‌ماشه",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/161",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "162",
+    "name": "فلز",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/162",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "163",
+    "name": "چوب",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/163",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "164",
+    "name": "سنگ",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/164",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "165",
+    "name": "آنالوگ",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/165",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "166",
+    "name": "دوخت روی پارچه",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/166",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "167",
+    "name": "لعاب",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/167",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "168",
+    "name": "گچ",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/168",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "169",
+    "name": "خشت",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/169",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "170",
+    "name": "لاک الکل",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/170",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "171",
+    "name": "گلدوزی",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/171",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "172",
+    "name": "تکه دوزی",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/172",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "178",
+    "name": "کاشی",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/178",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "233",
+    "name": "قلم‌فلزی و مرکب",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/233",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "716",
+    "name": "قلم مو و مرکب",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/716",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "742",
+    "name": "اکولین",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/742",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "845",
+    "name": "دیجیتال پینت",
+    "group_name": "تکنیک‌های اجراء",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/845",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1137",
+    "name": "حضرت خدیجه کبری (علیها السلام)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1137",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1252",
+    "name": "محرم",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1252",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1320",
+    "name": "حضرت ابوطالب (علیه السلام)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1320",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1326",
+    "name": "مسلم بن عقیل (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1326",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "133",
+    "name": "حضرت محمد رسول الله (ص)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/133",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1381",
+    "name": "غدیر خم",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1381",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1442",
+    "name": "حضرت ام البنين (س)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1442",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1455",
+    "name": "حضرت قاسم بن الحسن (عليه‌السلام)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1455",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1478",
+    "name": "موسى المبرقع",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1478",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "175",
+    "name": "حدیث",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/175",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "176",
+    "name": "ادعیه و مناجات",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/176",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "177",
+    "name": "بسم الله الرحمن الرحیم",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/177",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "180",
+    "name": "پنج تن",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/180",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "185",
+    "name": "آیه‌نگاری",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/185",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "19",
+    "name": "حضرت امیرالمومنین (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/19",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "190",
+    "name": "صلوات",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/190",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "191",
+    "name": "مناسبت‌ها",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/191",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "192",
+    "name": "آرایه‌های قرآنی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/192",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "193",
+    "name": "کتابت قرآن",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/193",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "20",
+    "name": "حضرت زهراء (س)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/20",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "21",
+    "name": "امام حسن مجتبی (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/21",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "22",
+    "name": "امام حسین (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/22",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "220",
+    "name": "الله",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/220",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "23",
+    "name": "امام سجاد (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/23",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "24",
+    "name": "امام محمد باقر (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/24",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "25",
+    "name": "حضرت جعفر بن محمد الصادق (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/25",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "26",
+    "name": "امام موسی الکاظم (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/26",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "27",
+    "name": "امام علی بن موسی الرضا (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/27",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "28",
+    "name": "امام جواد الائمه (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/28",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "29",
+    "name": "امام حسن العسکری (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/29",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "30",
+    "name": "امام مهدی حجه القائم (عج)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/30",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "32",
+    "name": "اسماء الحسنی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/32",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "33",
+    "name": "امام هادی (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/33",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "34",
+    "name": "حضرت عباس (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/34",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "35",
+    "name": "حضرت زینب (س)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/35",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "36",
+    "name": "حضرت معصومه (س)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/36",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "37",
+    "name": "حضرت علی اکبر (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/37",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "38",
+    "name": "حضرت رقیه (س)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/38",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "39",
+    "name": "حضرت علی اصغر (ع)",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/39",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "43",
+    "name": "ولایت",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/43",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "44",
+    "name": "انقلاب اسلامی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/44",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "45",
+    "name": "مقاومت اسلامی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/45",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "46",
+    "name": "بیداری اسلامی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/46",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "47",
+    "name": "فلسطین",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/47",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "48",
+    "name": "دفاع مقدس",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/48",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "49",
+    "name": "شهید و شهادت",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/49",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "50",
+    "name": "هندسی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/50",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "51",
+    "name": "نباتی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/51",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "717",
+    "name": "شهادتین",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/717",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "727",
+    "name": "استکبار ستیزی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/727",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "799",
+    "name": "نباتی ـ هندسی",
+    "group_name": "دسته‌بندی موضوعی",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/799",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1225",
+    "name": "افشاریان",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1225",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1333",
+    "name": "نامشخص",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1333",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1342",
+    "name": "سال 1370",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1342",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1343",
+    "name": "سال 1371",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1343",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1344",
+    "name": "سال 1732",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1344",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1345",
+    "name": "سال 1373",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1345",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1346",
+    "name": "سال 1374",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1346",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1347",
+    "name": "سال 1375",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1347",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1348",
+    "name": "سال 1376",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1348",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1349",
+    "name": "سال 1377",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1349",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1350",
+    "name": "سال 1378",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1350",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1351",
+    "name": "سال 1379",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1351",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1352",
+    "name": "سال 1380",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1352",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1353",
+    "name": "سال 1381",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1353",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1354",
+    "name": "سال 1382",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1354",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1355",
+    "name": "سال 1383",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1355",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1356",
+    "name": "سال 1384",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1356",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1357",
+    "name": "سال 1385",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1357",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1360",
+    "name": "سال 1386",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1360",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1361",
+    "name": "سال 1387",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1361",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1366",
+    "name": "سال 1388",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1366",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1367",
+    "name": "سال 1389",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1367",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1368",
+    "name": "سال 1390",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1368",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1369",
+    "name": "سال 1391",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1369",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1370",
+    "name": "سال 1392",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1370",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1371",
+    "name": "سال 1393",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1371",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1372",
+    "name": "سال 1394",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1372",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1373",
+    "name": "سال 1395",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1373",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1374",
+    "name": "سال 1396",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1374",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1375",
+    "name": "سال 1397",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1375",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1376",
+    "name": "سال 1398",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1376",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1377",
+    "name": "سال 1399",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1377",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1378",
+    "name": "سال 1400",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1378",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1379",
+    "name": "سال 1401",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1379",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1420",
+    "name": "سال 1402",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1420",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1425",
+    "name": "سال 1362",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1425",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "143",
+    "name": "سلجوقی",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/143",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "144",
+    "name": "ایلخانی",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/144",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "145",
+    "name": "صفوی",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/145",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1452",
+    "name": "سال 1403",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1452",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "146",
+    "name": "قاجار",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/146",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1465",
+    "name": "سال 1363",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1465",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1468",
+    "name": "سال 1359",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1468",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1469",
+    "name": "سال 1404",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1469",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "147",
+    "name": "معاصر",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/147",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1480",
+    "name": "سال 1346",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1480",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1482",
+    "name": "سال 1405",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1482",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1484",
+    "name": "قرن نوزدهم",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1484",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1491",
+    "name": "قرن ششم",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1491",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "196",
+    "name": "تیموری",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/196",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "199",
+    "name": "قرن اول هجری قمری",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/199",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "229",
+    "name": "عثمانی",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/229",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "239",
+    "name": "غزنویان",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/239",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "751",
+    "name": "زندیه",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/751",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "805",
+    "name": "قره‌قویونلو",
+    "group_name": "دوره‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/805",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "100",
+    "name": "طراحی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/100",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "101",
+    "name": "عکس",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/101",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "102",
+    "name": "نقاشی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/102",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "103",
+    "name": "خط نقاشی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/103",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1039",
+    "name": "مسلسل زنجیری",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1039",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1041",
+    "name": "کوفی مشرقی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1041",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "105",
+    "name": "گرافیک",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/105",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "106",
+    "name": "کلاژ",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/106",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "107",
+    "name": "سیاه مشق",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/107",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "108",
+    "name": "نستعلیق",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/108",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "109",
+    "name": "شکسته نستعلیق",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/109",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "110",
+    "name": "خط ثلث",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/110",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "112",
+    "name": "نسخ",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/112",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "113",
+    "name": "ریحان",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/113",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "114",
+    "name": "چلیپا",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/114",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "115",
+    "name": "کوفی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/115",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "116",
+    "name": "کتیبه نویسی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/116",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "117",
+    "name": "کتابت",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/117",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "118",
+    "name": "کوفی بنایی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/118",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "119",
+    "name": "خط دیوانی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/119",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "120",
+    "name": "اسکراچ بورد",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/120",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1201",
+    "name": "گلزار",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1201",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "121",
+    "name": "سنگ",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/121",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1215",
+    "name": "کوفی گره‌دار",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1215",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "122",
+    "name": "فلزکاری",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/122",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "123",
+    "name": "شیشه",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/123",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "124",
+    "name": "چوب",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/124",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "125",
+    "name": "پاپیه ماشه",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/125",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1259",
+    "name": "خط توقیع",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1259",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "126",
+    "name": "ترکیب مواد",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/126",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "127",
+    "name": "تذهیب",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/127",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "128",
+    "name": "گل مرغ",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/128",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "129",
+    "name": "تشعیر",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/129",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "130",
+    "name": "نقاشی ایرانی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/130",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "131",
+    "name": "کاریکاتور",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/131",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "132",
+    "name": "صنایع دستی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/132",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1427",
+    "name": "خط رقعه",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1427",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1433",
+    "name": "موشن گرافیک",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1433",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1467",
+    "name": "خط طغری",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1467",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "194",
+    "name": "تایپوگرافی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/194",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "212",
+    "name": "مقترن مسلسل",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/212",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "709",
+    "name": "دیجیتال",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/709",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "735",
+    "name": "محقق",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/735",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "743",
+    "name": "اکولین",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/743",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "745",
+    "name": "رقاع",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/745",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "748",
+    "name": "کوفی غزنوی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/748",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "749",
+    "name": "کوفی معقلی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/749",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "759",
+    "name": "گچ",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/759",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "761",
+    "name": "دیجیتال",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/761",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "783",
+    "name": "کوفی گلچین",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/783",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "785",
+    "name": "اکرولیک",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/785",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "802",
+    "name": "کوفی مغربی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/802",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "803",
+    "name": "کوفی تزئینی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/803",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "99",
+    "name": "صنایع دستی",
+    "group_name": "شاخه‌های هنری",
+    "is_artist": 0,
+    "source_url": "https://shiaarts.ir/taxonomy/term/99",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1038",
+    "name": "استاد فضائلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1038",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1042",
+    "name": "سید امیر حسین طباطبایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1042",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1043",
+    "name": "ناصر طاوسی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1043",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1046",
+    "name": "محمد حسن سروری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1046",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1047",
+    "name": "میرزا یوسف شاه ولدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1047",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1107",
+    "name": "محمد خیاطی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1107",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1108",
+    "name": "حسین‌رضا ونکی فراهانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1108",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "111",
+    "name": "مسعود نجابتی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/111",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1120",
+    "name": "محمد کاشانی آزاد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1120",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1141",
+    "name": "علی‌اکبر صادقی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1141",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1155",
+    "name": "داود بکتاش",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1155",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1156",
+    "name": "محمد رحیم همدانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1156",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1157",
+    "name": "روح الله ابوالفضلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1157",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1162",
+    "name": "عبدالرضا چاره‌ئی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1162",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1179",
+    "name": "عبدالحسین قزوینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1179",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1213",
+    "name": "محمدعلی عطار هروی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1213",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1218",
+    "name": "محمدرضا بلال",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1218",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1226",
+    "name": "علیرضا قزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1226",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1227",
+    "name": "مهدی عسکری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1227",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1236",
+    "name": "سیدمحمد برهانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1236",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1247",
+    "name": "سیداحمد خوانساری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1247",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1251",
+    "name": "مجتبی مجلسی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1251",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1262",
+    "name": "روضان البهیة",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1262",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1264",
+    "name": "احسان پورنعمان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1264",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1265",
+    "name": "محمدیاسین الحسنی المشرفاوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1265",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1266",
+    "name": "قاسم حیدر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1266",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1269",
+    "name": "محمدصادق کوچک زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1269",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1273",
+    "name": "اکبر کریم زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1273",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1274",
+    "name": "احمد خوانساری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1274",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1275",
+    "name": "عمار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1275",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1276",
+    "name": "حسن حیدر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1276",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1277",
+    "name": "عباس اویسی (الموسوی)",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1277",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1279",
+    "name": "مهدی سهرابی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1279",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1281",
+    "name": "استاد کاظم چلیپا",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1281",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1282",
+    "name": "محمدحسین داوری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1282",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1283",
+    "name": "رضا قصیر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1283",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1284",
+    "name": "مهدی فرخی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1284",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1285",
+    "name": "مهدی فرخی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1285",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1291",
+    "name": "علی مصطفوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1291",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1293",
+    "name": "رضا حاصلی ابرقویی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1293",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1294",
+    "name": "علی بحرینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1294",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1296",
+    "name": "حسین عکاف",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1296",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1297",
+    "name": "سجادعلی پورحیدری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1297",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1298",
+    "name": "محمود بازدار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1298",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1301",
+    "name": "مجید قادری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1301",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1304",
+    "name": "حبیب‌الله صادقی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1304",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1305",
+    "name": "حسن رزم خواه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1305",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1306",
+    "name": "علی خلج",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1306",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1307",
+    "name": "علی خلج",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1307",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1308",
+    "name": "رضا راعی عمران",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1308",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1309",
+    "name": "وحید یعقوب‌لو",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1309",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1310",
+    "name": "محمد پلوزاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1310",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1311",
+    "name": "محمدرضا مهدیانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1311",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1312",
+    "name": "سیدمهدی سیدی‌نیا",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1312",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1313",
+    "name": "رضا باباجانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1313",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1316",
+    "name": "هادی مهری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1316",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1317",
+    "name": "حافظ خانجانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1317",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1318",
+    "name": "احمد الهراوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1318",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1319",
+    "name": "احمد الهراوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1319",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1321",
+    "name": "عدنان القزاز",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1321",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1324",
+    "name": "مجتبی حسن زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1324",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1325",
+    "name": "محمدجواد معصومی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1325",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1327",
+    "name": "علی زیارانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1327",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1328",
+    "name": "محمدعلی نادری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1328",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1329",
+    "name": "مسعود پورزارعی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1329",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1330",
+    "name": "محمدصادق پوروهاب",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1330",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1331",
+    "name": "محمدرضا رستمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1331",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1332",
+    "name": "هنرمند گمنام",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1332",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1334",
+    "name": "مهدی مصطفوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1334",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1335",
+    "name": "نامشخص",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1335",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "135",
+    "name": "امیر حسامی‌نژاد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/135",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "136",
+    "name": "فرهود مقدم",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/136",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "137",
+    "name": "سیدحسن موسی‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/137",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "138",
+    "name": "صداقت جباری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/138",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1380",
+    "name": "علی الحسانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1380",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1384",
+    "name": "حسین التمیمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1384",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1385",
+    "name": "کمیل کریمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1385",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "139",
+    "name": "سیدوحید موسوی‌جزایری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/139",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1406",
+    "name": "احسان جعفرپیشه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1406",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1407",
+    "name": "سعید صادقی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1407",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1409",
+    "name": "گروه پلاکت",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1409",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "141",
+    "name": "مسعود صفار نژاد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/141",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1410",
+    "name": "امین احمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1410",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1411",
+    "name": "سیدعلی آیت",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1411",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1419",
+    "name": "ابراهیم جعفر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1419",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "142",
+    "name": "اسدالله فقیهی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/142",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1421",
+    "name": "علیرضا پوراکبری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1421",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1422",
+    "name": "سپیده حسین‌جواد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1422",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1423",
+    "name": "مرجان جلالی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1423",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1424",
+    "name": "مصطفی گودرزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1424",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1426",
+    "name": "گروه هنری دارالفنون عراق",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1426",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1428",
+    "name": "سیدمسعود شجاعی طباطبایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1428",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1429",
+    "name": "گروه هنرمندان یمن",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1429",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1430",
+    "name": "علی بسام",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1430",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1431",
+    "name": "محمدحسین نیرومند",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1431",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1432",
+    "name": "علیرضا قراگزلو",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1432",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1434",
+    "name": "کارلوس لاتوف",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1434",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1435",
+    "name": "سیداحمد باقریان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1435",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1436",
+    "name": "OmarZaghloul",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1436",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1437",
+    "name": "امیر محمد سرمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1437",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1438",
+    "name": "دعاء العدل",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1438",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1439",
+    "name": "زینة شریف",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1439",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1440",
+    "name": "نبیل نور الدین",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1440",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1441",
+    "name": "محمد صالحی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1441",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1443",
+    "name": "بهنام شیرمحمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1443",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1447",
+    "name": "عارفه حمیدپور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1447",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1449",
+    "name": "الهام شفیعی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1449",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1450",
+    "name": "اوس البندر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1450",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1451",
+    "name": "همایون مقدس",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1451",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1453",
+    "name": "کریم عرب تهرانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1453",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1454",
+    "name": "ضیاء نسیم",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1454",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1456",
+    "name": "یوسف احمد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1456",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1457",
+    "name": "نجمه سادات رامین",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1457",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1458",
+    "name": "فریبا صفرآبادی فراهانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1458",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1459",
+    "name": "سیدمحمدعلی بلادی فرد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1459",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1460",
+    "name": "حسن علیپور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1460",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1461",
+    "name": "یاسر عبدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1461",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1462",
+    "name": "سیدالیاس قاسمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1462",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1463",
+    "name": "احمد یونسی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1463",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1464",
+    "name": "کاظم چلیپا",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1464",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1466",
+    "name": "حبیب الله فضائلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1466",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1470",
+    "name": "حمید ژولانژاد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1470",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1471",
+    "name": "هاشم بغدادی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1471",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1472",
+    "name": "عباس بغدادی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1472",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1473",
+    "name": "مجید رستگار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1473",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1474",
+    "name": "فرهاد قورلو",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1474",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1475",
+    "name": "احمد آقاقلی‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1475",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1479",
+    "name": "ویکتور کورتسکی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1479",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1481",
+    "name": "بهمن احمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1481",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1483",
+    "name": "علیرضا صوفی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1483",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1485",
+    "name": "عبدالله زهدی افندی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1485",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1486",
+    "name": "حسن بیات",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1486",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1487",
+    "name": "صادق القصیر الحسینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1487",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1488",
+    "name": "محمد سیلیک",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1488",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1489",
+    "name": "محمد صالح الجعدبی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1489",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1490",
+    "name": "محمد الحسنی الشهرستانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1490",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "1492",
+    "name": "یاسر العزاوی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/1492",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "179",
+    "name": "صابر شیخ‌رضایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/179",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "181",
+    "name": "ملک محمد قزوینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/181",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "182",
+    "name": "حسن عزیزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/182",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "183",
+    "name": "محمدحسین مویدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/183",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "184",
+    "name": "مصطفی برجی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/184",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "186",
+    "name": "سید محمدهادی قادری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/186",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "187",
+    "name": "روح‌الله حسین‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/187",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "188",
+    "name": "سعید محمودی ازناوه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/188",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "189",
+    "name": "کانون هنر شیعی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/189",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "195",
+    "name": "سیدمحسن نوری نجفی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/195",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "197",
+    "name": "هاجر سلیمی نمین",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/197",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "198",
+    "name": "سیدمحمد موحد حسینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/198",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "200",
+    "name": "احمد عبدالرضایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/200",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "201",
+    "name": "زهرا کیانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/201",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "202",
+    "name": "نصرالله افجه‌ای",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/202",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "203",
+    "name": "اسماعیل رضایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/203",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "204",
+    "name": "ابراهیم سلیمانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/204",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "205",
+    "name": "مصطفی اخواص",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/205",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "206",
+    "name": "مسعود رستمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/206",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "207",
+    "name": "عبدالله هروی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/207",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "208",
+    "name": "سینا رعیت دوست",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/208",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "209",
+    "name": "عبدالرسول یاقوتی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/209",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "210",
+    "name": "میثم اشعری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/210",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "211",
+    "name": "احمد عزیزپور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/211",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "213",
+    "name": "سیدایمان نوری نجفی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/213",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "214",
+    "name": "سیدحمید شریفی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/214",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "215",
+    "name": "مهدی سعیدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/215",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "216",
+    "name": "حامد مغروری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/216",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "217",
+    "name": "زینب ربانی‌خواه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/217",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "218",
+    "name": "علیرضا حصارکی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/218",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "219",
+    "name": "جلیل رسولی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/219",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "221",
+    "name": "سیدمحمد احصایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/221",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "222",
+    "name": "محمدحسین بن یزدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/222",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "223",
+    "name": "دامون خانجانزاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/223",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "224",
+    "name": "مسعود جزنی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/224",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "225",
+    "name": "رضا دالوند",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/225",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "226",
+    "name": "مصطفی اسداللهی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/226",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "227",
+    "name": "احمد علی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/227",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "228",
+    "name": "محمد ابراهیم",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/228",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "230",
+    "name": "محمود طلایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/230",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "231",
+    "name": "اسماعیل زهدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/231",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "232",
+    "name": "ابوالفضل عالی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/232",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "234",
+    "name": "محمدرضا دوست محمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/234",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "240",
+    "name": "اسرافیل شیرچی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/240",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "241",
+    "name": "صادق انصاری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/241",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "243",
+    "name": "حمید مازیار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/243",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "244",
+    "name": "حسین خسروجردی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/244",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "245",
+    "name": "مصطفی معمی‌وند",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/245",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "695",
+    "name": "محمد ربیعی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/695",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "696",
+    "name": "علی عسکر ارسنجانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/696",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "697",
+    "name": "سیف الله یزدانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/697",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "698",
+    "name": "عنایت حسین‌پور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/698",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "699",
+    "name": "سیدمهدی حسینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/699",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "700",
+    "name": "مجید زارع",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/700",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "701",
+    "name": "حمیدرضا کشاورزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/701",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "702",
+    "name": "آرزو آقابابائیان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/702",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "703",
+    "name": "میثم نامدار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/703",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "704",
+    "name": "حسین علیزاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/704",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "705",
+    "name": "سیدمهدی میرحیدری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/705",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "706",
+    "name": "قباد شیوا",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/706",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "707",
+    "name": "محمدحسین همدانیان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/707",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "708",
+    "name": "هادی گل محمدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/708",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "712",
+    "name": "حسن روح‌الأمین",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/712",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "713",
+    "name": "مسعود شکیبایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/713",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "714",
+    "name": "طاهر نبی‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/714",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "715",
+    "name": "عصام السعید",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/715",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "718",
+    "name": "مرتضی ممیز",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/718",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "719",
+    "name": "تهمتن امینیان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/719",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "720",
+    "name": "سامی افندی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/720",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "722",
+    "name": "پویا سرابی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/722",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "723",
+    "name": "مجید جدیدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/723",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "724",
+    "name": "علی کیان‌مهر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/724",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "725",
+    "name": "هادی معزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/725",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "726",
+    "name": "علی وزیریان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/726",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "728",
+    "name": "سیداحسان باقری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/728",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "729",
+    "name": "مثنی العبیدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/729",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "730",
+    "name": "سید محمدعلی سیدابراهیمی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/730",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "731",
+    "name": "رضا مافی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/731",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "732",
+    "name": "حسین چمن‌خواه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/732",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "733",
+    "name": "حمید قربان‌پور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/733",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "734",
+    "name": "علاءالدین تبریزی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/734",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "736",
+    "name": "محمدشفیع بن علی‌عسکر ارسنجانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/736",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "737",
+    "name": "حسین نجفی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/737",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "738",
+    "name": "مصطفی عزت",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/738",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "739",
+    "name": "سید محمدرضا میری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/739",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "740",
+    "name": "محمود آزادنیا",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/740",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "741",
+    "name": "فراس عباس",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/741",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "744",
+    "name": "سیامک فیلی‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/744",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "746",
+    "name": "سعید کارخانه",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/746",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "747",
+    "name": "محمدعلی خیارجی قزوینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/747",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "750",
+    "name": "علی رضاییان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/750",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "752",
+    "name": "احمد درخشنده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/752",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "753",
+    "name": "ایمان میرزایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/753",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "754",
+    "name": "حامد امامی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/754",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "755",
+    "name": "روح‌الله فاضلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/755",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "756",
+    "name": "محمدمهدی منصوری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/756",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "757",
+    "name": "علیرضا ذاکری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/757",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "758",
+    "name": "غفار قنبرپور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/758",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "760",
+    "name": "حسین مرتضایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/760",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "762",
+    "name": "محمود رطیل",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/762",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "774",
+    "name": "حسین علی‌پور",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/774",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "775",
+    "name": "فرید الدین",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/775",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "776",
+    "name": "امید نائینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/776",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "777",
+    "name": "رسول معصوم‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/777",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "778",
+    "name": "احمد وجدان‌نژاد",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/778",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "784",
+    "name": "طیبه توسلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/784",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "795",
+    "name": "مرتضی رحمتی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/795",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "797",
+    "name": "محسن قراری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/797",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "798",
+    "name": "محمد شکرالله الحسینی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/798",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "800",
+    "name": "مصطفی بکر",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/800",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "804",
+    "name": "محمد توکلی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/804",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "806",
+    "name": "رضا بدرالسما",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/806",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "807",
+    "name": "سیدرسول آقامیری",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/807",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "810",
+    "name": "محمود فرشچیان",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/810",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "811",
+    "name": "فاطمه سادات درة‌التاج طهرانی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/811",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "842",
+    "name": "مهدی آگاه‌منش",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/842",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "843",
+    "name": "حمیده حسینعلی‌زاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/843",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "844",
+    "name": "امیر خالقی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/844",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "846",
+    "name": "محمد طاهرزاده",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/846",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "847",
+    "name": "علیرضا محبی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/847",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "848",
+    "name": "احمد دیندار",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/848",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "849",
+    "name": "مرتضی میرزایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/849",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "850",
+    "name": "نوشین صفاخو",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/850",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "851",
+    "name": "محمدتقی اسدی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/851",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  },
+  {
+    "id": "852",
+    "name": "محمد خزایی",
+    "group_name": "هنرمندان و خالقان اثر",
+    "is_artist": 1,
+    "source_url": "https://shiaarts.ir/taxonomy/term/852",
+    "discovered_from": "https://shiaarts.ir/Categories"
+  }
+]

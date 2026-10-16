@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-10-16T10:40:30.280753+00:00",
+  "scope": "all",
+  "inventory_closed": false,
+  "fully_reviewed": false,
+  "pages": {
+    "done": 69,
+    "pending": 401
+  },
+  "artworks": {
+    "done": 545,
+    "pending": 714
+  },
+  "unique_artwork_count": 1259,
+  "displayed_image_count": 575,
+  "assets": {
+    "done": 40,
+    "pending": 535
+  },
+  "visually_reviewed_artwork_count": 0,
+  "pending_visual_review_artwork_count": 1259,
+  "image_records_ready_for_visual_review": 40,
+  "image_records_not_yet_downloaded": 535,
+  "visual_review_queue_file": "outputs\\shiaarts-research\\visual-review-queue.jsonl",
+  "taxonomy_term_count": 455,
+  "artist_taxonomy_count": 262,
+  "policy": {
+    "minimum_request_interval_seconds": 10,
+    "globally_serialized_request_lock": "work\\crawl-clock.lock",
+    "archival_downloads_requested": false,
+    "visual_review_not_inferred_from_download_or_pixels": true,
+    "inventory_closed_definition": "Every seeded and discovered listing page completed without pending, error or blocked listing pages; terminal pagers are absent in fetched HTML. Snapshot only, not proof against unlinked works."
+  },
+  "failures": []
+}

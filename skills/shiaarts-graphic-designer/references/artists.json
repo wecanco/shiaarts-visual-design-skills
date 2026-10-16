@@ -1,0 +1,5168 @@
+{
+  "artists": [
+    {
+      "artist_id": "term:1436",
+      "identity_key": "id:term:1436",
+      "name": "OmarZaghloul",
+      "aliases": [
+        "OmarZaghloul"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1436",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-omarzaghloul-e548497d0d69",
+      "skill_path": "../shiaarts-artist-omarzaghloul-e548497d0d69"
+    },
+    {
+      "artist_id": "term:702",
+      "identity_key": "id:term:702",
+      "name": "آرزو آقابابائیان",
+      "aliases": [
+        "آرزو آقابابائیان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/702",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-arzv-aghababayyan-f842850d215e",
+      "skill_path": "../shiaarts-artist-arzv-aghababayyan-f842850d215e"
+    },
+    {
+      "artist_id": "term:1419",
+      "identity_key": "id:term:1419",
+      "name": "ابراهیم جعفر",
+      "aliases": [
+        "ابراهیم جعفر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1419",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abrahym-jafr-060a56f27941",
+      "skill_path": "../shiaarts-artist-abrahym-jafr-060a56f27941"
+    },
+    {
+      "artist_id": "term:204",
+      "identity_key": "id:term:204",
+      "name": "ابراهیم سلیمانی",
+      "aliases": [
+        "ابراهیم سلیمانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/204",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abrahym-slymany-c3a364c35104",
+      "skill_path": "../shiaarts-artist-abrahym-slymany-c3a364c35104"
+    },
+    {
+      "artist_id": "term:232",
+      "identity_key": "id:term:232",
+      "name": "ابوالفضل عالی",
+      "aliases": [
+        "ابوالفضل عالی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/232",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abvalfzl-aaly-16eba818c88a",
+      "skill_path": "../shiaarts-artist-abvalfzl-aaly-16eba818c88a"
+    },
+    {
+      "artist_id": "term:1406",
+      "identity_key": "id:term:1406",
+      "name": "احسان جعفرپیشه",
+      "aliases": [
+        "احسان جعفرپیشه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1406",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahsan-jafrpyshh-7dacd4167874",
+      "skill_path": "../shiaarts-artist-ahsan-jafrpyshh-7dacd4167874"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D8%B3%D8%A7%D9%86-%D8%AC%D8%B9%D9%81%D8%B1%D9%BE%DB%8C%D8%B4%D9%87",
+      "name": "احسان جعفرپیشه",
+      "aliases": [
+        "احسان جعفرپیشه"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D8%B3%D8%A7%D9%86-%D8%AC%D8%B9%D9%81%D8%B1%D9%BE%DB%8C%D8%B4%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahsan-jafrpyshh-e3fff565d721",
+      "skill_path": "../shiaarts-artist-ahsan-jafrpyshh-e3fff565d721"
+    },
+    {
+      "artist_id": "term:1264",
+      "identity_key": "id:term:1264",
+      "name": "احسان پورنعمان",
+      "aliases": [
+        "احسان پورنعمان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1264",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahsan-pvrnaman-5027578b349d",
+      "skill_path": "../shiaarts-artist-ahsan-pvrnaman-5027578b349d"
+    },
+    {
+      "artist_id": "term:1475",
+      "identity_key": "id:term:1475",
+      "name": "احمد آقاقلی‌زاده",
+      "aliases": [
+        "احمد آقاقلی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1475",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-aghaghly-zadh-349aca736a44",
+      "skill_path": "../shiaarts-artist-ahmd-aghaghly-zadh-349aca736a44"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A2%D9%82%D8%A7%D9%82%D9%84%DB%8C%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87",
+      "name": "احمد آقاقلی‌زاده",
+      "aliases": [
+        "احمد آقاقلی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%A2%D9%82%D8%A7%D9%82%D9%84%DB%8C%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-aghaghly-zadh-6978ed8e0803",
+      "skill_path": "../shiaarts-artist-ahmd-aghaghly-zadh-6978ed8e0803"
+    },
+    {
+      "artist_id": "term:1318",
+      "identity_key": "id:term:1318",
+      "name": "احمد الهراوی",
+      "aliases": [
+        "احمد الهراوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1318",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-alhravy-21e7654ab1e1",
+      "skill_path": "../shiaarts-artist-ahmd-alhravy-21e7654ab1e1"
+    },
+    {
+      "artist_id": "term:1319",
+      "identity_key": "id:term:1319",
+      "name": "احمد الهراوی",
+      "aliases": [
+        "احمد الهراوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1319",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-alhravy-d29ec7d9a8cf",
+      "skill_path": "../shiaarts-artist-ahmd-alhravy-d29ec7d9a8cf"
+    },
+    {
+      "artist_id": "term:1274",
+      "identity_key": "id:term:1274",
+      "name": "احمد خوانساری",
+      "aliases": [
+        "احمد خوانساری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1274",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-khvansary-dbd39e633b3c",
+      "skill_path": "../shiaarts-artist-ahmd-khvansary-dbd39e633b3c"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%DB%8C",
+      "name": "احمد خوانساری",
+      "aliases": [
+        "احمد خوانساری"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-khvansary-f491c7797181",
+      "skill_path": "../shiaarts-artist-ahmd-khvansary-f491c7797181"
+    },
+    {
+      "artist_id": "term:752",
+      "identity_key": "id:term:752",
+      "name": "احمد درخشنده",
+      "aliases": [
+        "احمد درخشنده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/752",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-drkhshndh-36c7226abfa7",
+      "skill_path": "../shiaarts-artist-ahmd-drkhshndh-36c7226abfa7"
+    },
+    {
+      "artist_id": "term:848",
+      "identity_key": "id:term:848",
+      "name": "احمد دیندار",
+      "aliases": [
+        "احمد دیندار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/848",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-dyndar-69d1332a6690",
+      "skill_path": "../shiaarts-artist-ahmd-dyndar-69d1332a6690"
+    },
+    {
+      "artist_id": "term:200",
+      "identity_key": "id:term:200",
+      "name": "احمد عبدالرضایی",
+      "aliases": [
+        "احمد عبدالرضایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/200",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-abdalrzayy-e301b4877060",
+      "skill_path": "../shiaarts-artist-ahmd-abdalrzayy-e301b4877060"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C",
+      "name": "احمد عبدالرضایی",
+      "aliases": [
+        "احمد عبدالرضایی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-abdalrzayy-d1e19ac1bd5b",
+      "skill_path": "../shiaarts-artist-ahmd-abdalrzayy-d1e19ac1bd5b"
+    },
+    {
+      "artist_id": "term:211",
+      "identity_key": "id:term:211",
+      "name": "احمد عزیزپور",
+      "aliases": [
+        "احمد عزیزپور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/211",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-azyzpvr-bec5ecabe140",
+      "skill_path": "../shiaarts-artist-ahmd-azyzpvr-bec5ecabe140"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B9%D8%B2%DB%8C%D8%B2%D9%BE%D9%88%D8%B1",
+      "name": "احمد عزیزپور",
+      "aliases": [
+        "احمد عزیزپور"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B9%D8%B2%DB%8C%D8%B2%D9%BE%D9%88%D8%B1",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-ahmd-azyzpvr-20b66fd1a1c9",
+      "skill_path": "../shiaarts-artist-ahmd-azyzpvr-20b66fd1a1c9"
+    },
+    {
+      "artist_id": "term:227",
+      "identity_key": "id:term:227",
+      "name": "احمد علی",
+      "aliases": [
+        "احمد علی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/227",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-aly-b169e8454a2c",
+      "skill_path": "../shiaarts-artist-ahmd-aly-b169e8454a2c"
+    },
+    {
+      "artist_id": "term:778",
+      "identity_key": "id:term:778",
+      "name": "احمد وجدان‌نژاد",
+      "aliases": [
+        "احمد وجدان‌نژاد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/778",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-vjdan-nzhad-1cd85f35df6d",
+      "skill_path": "../shiaarts-artist-ahmd-vjdan-nzhad-1cd85f35df6d"
+    },
+    {
+      "artist_id": "term:1463",
+      "identity_key": "id:term:1463",
+      "name": "احمد یونسی",
+      "aliases": [
+        "احمد یونسی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1463",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ahmd-yvnsy-07d8054232e8",
+      "skill_path": "../shiaarts-artist-ahmd-yvnsy-07d8054232e8"
+    },
+    {
+      "artist_id": "term:1038",
+      "identity_key": "id:term:1038",
+      "name": "استاد فضائلی",
+      "aliases": [
+        "استاد فضائلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1038",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-astad-fzayly-0d7aa36ea197",
+      "skill_path": "../shiaarts-artist-astad-fzayly-0d7aa36ea197"
+    },
+    {
+      "artist_id": "term:1281",
+      "identity_key": "id:term:1281",
+      "name": "استاد کاظم چلیپا",
+      "aliases": [
+        "استاد کاظم چلیپا"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1281",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-astad-kazm-chlypa-fbc0c3d9837c",
+      "skill_path": "../shiaarts-artist-astad-kazm-chlypa-fbc0c3d9837c"
+    },
+    {
+      "artist_id": "term:142",
+      "identity_key": "id:term:142",
+      "name": "اسدالله فقیهی",
+      "aliases": [
+        "اسدالله فقیهی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/142",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-asdallh-fghyhy-bd182555be09",
+      "skill_path": "../shiaarts-artist-asdallh-fghyhy-bd182555be09"
+    },
+    {
+      "artist_id": "term:240",
+      "identity_key": "id:term:240",
+      "name": "اسرافیل شیرچی",
+      "aliases": [
+        "اسرافیل شیرچی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/240",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-asrafyl-shyrchy-f6082288d922",
+      "skill_path": "../shiaarts-artist-asrafyl-shyrchy-f6082288d922"
+    },
+    {
+      "artist_id": "term:203",
+      "identity_key": "id:term:203",
+      "name": "اسماعیل رضایی",
+      "aliases": [
+        "اسماعیل رضایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/203",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-asmaayl-rzayy-49ceb3ef4a75",
+      "skill_path": "../shiaarts-artist-asmaayl-rzayy-49ceb3ef4a75"
+    },
+    {
+      "artist_id": "term:231",
+      "identity_key": "id:term:231",
+      "name": "اسماعیل زهدی",
+      "aliases": [
+        "اسماعیل زهدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/231",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-asmaayl-zhdy-af33f31ddf25",
+      "skill_path": "../shiaarts-artist-asmaayl-zhdy-af33f31ddf25"
+    },
+    {
+      "artist_id": "term:1449",
+      "identity_key": "id:term:1449",
+      "name": "الهام شفیعی",
+      "aliases": [
+        "الهام شفیعی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1449",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alham-shfyay-ec6a7aed106d",
+      "skill_path": "../shiaarts-artist-alham-shfyay-ec6a7aed106d"
+    },
+    {
+      "artist_id": "term:776",
+      "identity_key": "id:term:776",
+      "name": "امید نائینی",
+      "aliases": [
+        "امید نائینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/776",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyd-nayyny-29cf2b8cece5",
+      "skill_path": "../shiaarts-artist-amyd-nayyny-29cf2b8cece5"
+    },
+    {
+      "artist_id": "term:135",
+      "identity_key": "id:term:135",
+      "name": "امیر حسامی‌نژاد",
+      "aliases": [
+        "امیر حسامی‌نژاد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/135",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyr-hsamy-nzhad-44728eaa3628",
+      "skill_path": "../shiaarts-artist-amyr-hsamy-nzhad-44728eaa3628"
+    },
+    {
+      "artist_id": "term:844",
+      "identity_key": "id:term:844",
+      "name": "امیر خالقی",
+      "aliases": [
+        "امیر خالقی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/844",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyr-khalghy-965aa8449755",
+      "skill_path": "../shiaarts-artist-amyr-khalghy-965aa8449755"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D9%85%DB%8C%D8%B1-%D8%AE%D8%A7%D9%84%D9%82%DB%8C",
+      "name": "امیر خالقی",
+      "aliases": [
+        "امیر خالقی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D9%85%DB%8C%D8%B1-%D8%AE%D8%A7%D9%84%D9%82%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyr-khalghy-cb4de7f50fe0",
+      "skill_path": "../shiaarts-artist-amyr-khalghy-cb4de7f50fe0"
+    },
+    {
+      "artist_id": "term:1437",
+      "identity_key": "id:term:1437",
+      "name": "امیر محمد سرمدی",
+      "aliases": [
+        "امیر محمد سرمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1437",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyr-mhmd-srmdy-df72d2382fbf",
+      "skill_path": "../shiaarts-artist-amyr-mhmd-srmdy-df72d2382fbf"
+    },
+    {
+      "artist_id": "term:1410",
+      "identity_key": "id:term:1410",
+      "name": "امین احمدی",
+      "aliases": [
+        "امین احمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1410",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amyn-ahmdy-0cdcaba7bf74",
+      "skill_path": "../shiaarts-artist-amyn-ahmdy-0cdcaba7bf74"
+    },
+    {
+      "artist_id": "term:1450",
+      "identity_key": "id:term:1450",
+      "name": "اوس البندر",
+      "aliases": [
+        "اوس البندر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1450",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-avs-albndr-826c82b71fa4",
+      "skill_path": "../shiaarts-artist-avs-albndr-826c82b71fa4"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D9%88%D8%B3-%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D8%B1",
+      "name": "اوس البندر",
+      "aliases": [
+        "اوس البندر"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%D9%88%D8%B3-%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D8%B1",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-avs-albndr-b3dc61a1796d",
+      "skill_path": "../shiaarts-artist-avs-albndr-b3dc61a1796d"
+    },
+    {
+      "artist_id": "term:1273",
+      "identity_key": "id:term:1273",
+      "name": "اکبر کریم زاده",
+      "aliases": [
+        "اکبر کریم زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1273",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-akbr-krym-zadh-51c93eaf5355",
+      "skill_path": "../shiaarts-artist-akbr-krym-zadh-51c93eaf5355"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%DA%A9%D8%A8%D8%B1-%DA%A9%D8%B1%DB%8C%D9%85-%D8%B2%D8%A7%D8%AF%D9%87",
+      "name": "اکبر کریم زاده",
+      "aliases": [
+        "اکبر کریم زاده"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A7%DA%A9%D8%A8%D8%B1-%DA%A9%D8%B1%DB%8C%D9%85-%D8%B2%D8%A7%D8%AF%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 3,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-akbr-krym-zadh-e724d4f2292f",
+      "skill_path": "../shiaarts-artist-akbr-krym-zadh-e724d4f2292f"
+    },
+    {
+      "artist_id": "term:753",
+      "identity_key": "id:term:753",
+      "name": "ایمان میرزایی",
+      "aliases": [
+        "ایمان میرزایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/753",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ayman-myrzayy-e2c476989af1",
+      "skill_path": "../shiaarts-artist-ayman-myrzayy-e2c476989af1"
+    },
+    {
+      "artist_id": "term:1481",
+      "identity_key": "id:term:1481",
+      "name": "بهمن احمدی",
+      "aliases": [
+        "بهمن احمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1481",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-bhmn-ahmdy-83a8b3dd8a2d",
+      "skill_path": "../shiaarts-artist-bhmn-ahmdy-83a8b3dd8a2d"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A8%D9%87%D9%85%D9%86-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C",
+      "name": "بهمن احمدی",
+      "aliases": [
+        "بهمن احمدی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%A8%D9%87%D9%85%D9%86-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-bhmn-ahmdy-997b6309d96e",
+      "skill_path": "../shiaarts-artist-bhmn-ahmdy-997b6309d96e"
+    },
+    {
+      "artist_id": "term:1443",
+      "identity_key": "id:term:1443",
+      "name": "بهنام شیرمحمدی",
+      "aliases": [
+        "بهنام شیرمحمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1443",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-bhnam-shyrmhmdy-54f8329c7081",
+      "skill_path": "../shiaarts-artist-bhnam-shyrmhmdy-54f8329c7081"
+    },
+    {
+      "artist_id": "term:719",
+      "identity_key": "id:term:719",
+      "name": "تهمتن امینیان",
+      "aliases": [
+        "تهمتن امینیان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/719",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-thmtn-amynyan-1040f8b72c90",
+      "skill_path": "../shiaarts-artist-thmtn-amynyan-1040f8b72c90"
+    },
+    {
+      "artist_id": "term:219",
+      "identity_key": "id:term:219",
+      "name": "جلیل رسولی",
+      "aliases": [
+        "جلیل رسولی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/219",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-jlyl-rsvly-1e4c16300c22",
+      "skill_path": "../shiaarts-artist-jlyl-rsvly-1e4c16300c22"
+    },
+    {
+      "artist_id": "term:1317",
+      "identity_key": "id:term:1317",
+      "name": "حافظ خانجانی",
+      "aliases": [
+        "حافظ خانجانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1317",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hafz-khanjany-eb573312d3c9",
+      "skill_path": "../shiaarts-artist-hafz-khanjany-eb573312d3c9"
+    },
+    {
+      "artist_id": "term:754",
+      "identity_key": "id:term:754",
+      "name": "حامد امامی",
+      "aliases": [
+        "حامد امامی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/754",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hamd-amamy-7a8dcee7f3e8",
+      "skill_path": "../shiaarts-artist-hamd-amamy-7a8dcee7f3e8"
+    },
+    {
+      "artist_id": "term:216",
+      "identity_key": "id:term:216",
+      "name": "حامد مغروری",
+      "aliases": [
+        "حامد مغروری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/216",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hamd-mghrvry-d5aea52d1e3c",
+      "skill_path": "../shiaarts-artist-hamd-mghrvry-d5aea52d1e3c"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%A7%D9%85%D8%AF-%D9%85%D8%BA%D8%B1%D9%88%D8%B1%DB%8C",
+      "name": "حامد مغروری",
+      "aliases": [
+        "حامد مغروری"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%A7%D9%85%D8%AF-%D9%85%D8%BA%D8%B1%D9%88%D8%B1%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 3,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hamd-mghrvry-485caf684139",
+      "skill_path": "../shiaarts-artist-hamd-mghrvry-485caf684139"
+    },
+    {
+      "artist_id": "term:1304",
+      "identity_key": "id:term:1304",
+      "name": "حبیب‌الله صادقی",
+      "aliases": [
+        "حبیب‌الله صادقی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1304",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hbyb-allh-sadghy-138e5872953b",
+      "skill_path": "../shiaarts-artist-hbyb-allh-sadghy-138e5872953b"
+    },
+    {
+      "artist_id": "term:1466",
+      "identity_key": "id:term:1466",
+      "name": "حبیب الله فضائلی",
+      "aliases": [
+        "حبیب الله فضائلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1466",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hbyb-allh-fzayly-e5e695185557",
+      "skill_path": "../shiaarts-artist-hbyb-allh-fzayly-e5e695185557"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%A8%DB%8C%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D8%B6%D8%A7%D8%A6%D9%84%DB%8C",
+      "name": "حبیب الله فضائلی",
+      "aliases": [
+        "حبیب الله فضائلی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%A8%DB%8C%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D8%B6%D8%A7%D8%A6%D9%84%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hbyb-allh-fzayly-8aa91890a51a",
+      "skill_path": "../shiaarts-artist-hbyb-allh-fzayly-8aa91890a51a"
+    },
+    {
+      "artist_id": "term:1486",
+      "identity_key": "id:term:1486",
+      "name": "حسن بیات",
+      "aliases": [
+        "حسن بیات"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1486",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-byat-81b5ba81f215",
+      "skill_path": "../shiaarts-artist-hsn-byat-81b5ba81f215"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%D9%86-%D8%A8%DB%8C%D8%A7%D8%AA",
+      "name": "حسن بیات",
+      "aliases": [
+        "حسن بیات"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%D9%86-%D8%A8%DB%8C%D8%A7%D8%AA",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hsn-byat-4dcb757ed0f2",
+      "skill_path": "../shiaarts-artist-hsn-byat-4dcb757ed0f2"
+    },
+    {
+      "artist_id": "term:1276",
+      "identity_key": "id:term:1276",
+      "name": "حسن حیدر",
+      "aliases": [
+        "حسن حیدر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1276",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-hydr-838badebf846",
+      "skill_path": "../shiaarts-artist-hsn-hydr-838badebf846"
+    },
+    {
+      "artist_id": "term:1305",
+      "identity_key": "id:term:1305",
+      "name": "حسن رزم خواه",
+      "aliases": [
+        "حسن رزم خواه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1305",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-rzm-khvah-a9715a21e7ba",
+      "skill_path": "../shiaarts-artist-hsn-rzm-khvah-a9715a21e7ba"
+    },
+    {
+      "artist_id": "term:712",
+      "identity_key": "id:term:712",
+      "name": "حسن روح‌الأمین",
+      "aliases": [
+        "حسن روح‌الأمین"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/712",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-rvh-alamyn-610fa4bf4abf",
+      "skill_path": "../shiaarts-artist-hsn-rvh-alamyn-610fa4bf4abf"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%D9%86-%D8%B1%D9%88%D8%AD%E2%80%8C%D8%A7%D9%84%D8%A3%D9%85%DB%8C%D9%86",
+      "name": "حسن روح‌الأمین",
+      "aliases": [
+        "حسن روح‌الأمین"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%D9%86-%D8%B1%D9%88%D8%AD%E2%80%8C%D8%A7%D9%84%D8%A3%D9%85%DB%8C%D9%86",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-rvh-alamyn-4e8a95d4a025",
+      "skill_path": "../shiaarts-artist-hsn-rvh-alamyn-4e8a95d4a025"
+    },
+    {
+      "artist_id": "term:182",
+      "identity_key": "id:term:182",
+      "name": "حسن عزیزی",
+      "aliases": [
+        "حسن عزیزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/182",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-azyzy-ee5ff85147dd",
+      "skill_path": "../shiaarts-artist-hsn-azyzy-ee5ff85147dd"
+    },
+    {
+      "artist_id": "term:1460",
+      "identity_key": "id:term:1460",
+      "name": "حسن علیپور",
+      "aliases": [
+        "حسن علیپور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1460",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsn-alypvr-35114f0ba9ff",
+      "skill_path": "../shiaarts-artist-hsn-alypvr-35114f0ba9ff"
+    },
+    {
+      "artist_id": "term:1384",
+      "identity_key": "id:term:1384",
+      "name": "حسین التمیمی",
+      "aliases": [
+        "حسین التمیمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1384",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-altmymy-b59748e4c685",
+      "skill_path": "../shiaarts-artist-hsyn-altmymy-b59748e4c685"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86-%D8%A7%D9%84%D8%AA%D9%85%DB%8C%D9%85%DB%8C",
+      "name": "حسین التمیمی",
+      "aliases": [
+        "حسین التمیمی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86-%D8%A7%D9%84%D8%AA%D9%85%DB%8C%D9%85%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-altmymy-a553307a4930",
+      "skill_path": "../shiaarts-artist-hsyn-altmymy-a553307a4930"
+    },
+    {
+      "artist_id": "term:244",
+      "identity_key": "id:term:244",
+      "name": "حسین خسروجردی",
+      "aliases": [
+        "حسین خسروجردی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/244",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-khsrvjrdy-340af3568ec2",
+      "skill_path": "../shiaarts-artist-hsyn-khsrvjrdy-340af3568ec2"
+    },
+    {
+      "artist_id": "term:1108",
+      "identity_key": "id:term:1108",
+      "name": "حسین‌رضا ونکی فراهانی",
+      "aliases": [
+        "حسین‌رضا ونکی فراهانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1108",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-rza-vnky-frahany-97c9a178d366",
+      "skill_path": "../shiaarts-artist-hsyn-rza-vnky-frahany-97c9a178d366"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86%E2%80%8C%D8%B1%D8%B6%D8%A7-%D9%88%D9%86%DA%A9%DB%8C-%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C",
+      "name": "حسین‌رضا ونکی فراهانی",
+      "aliases": [
+        "حسین‌رضا ونکی فراهانی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86%E2%80%8C%D8%B1%D8%B6%D8%A7-%D9%88%D9%86%DA%A9%DB%8C-%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hsyn-rza-vnky-frahany-8f73b421186f",
+      "skill_path": "../shiaarts-artist-hsyn-rza-vnky-frahany-8f73b421186f"
+    },
+    {
+      "artist_id": "term:774",
+      "identity_key": "id:term:774",
+      "name": "حسین علی‌پور",
+      "aliases": [
+        "حسین علی‌پور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/774",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-aly-pvr-abc1a05c6f42",
+      "skill_path": "../shiaarts-artist-hsyn-aly-pvr-abc1a05c6f42"
+    },
+    {
+      "artist_id": "term:704",
+      "identity_key": "id:term:704",
+      "name": "حسین علیزاده",
+      "aliases": [
+        "حسین علیزاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/704",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-alyzadh-4d409b59d8f9",
+      "skill_path": "../shiaarts-artist-hsyn-alyzadh-4d409b59d8f9"
+    },
+    {
+      "artist_id": "term:1296",
+      "identity_key": "id:term:1296",
+      "name": "حسین عکاف",
+      "aliases": [
+        "حسین عکاف"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1296",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-akaf-1cdd35e429d8",
+      "skill_path": "../shiaarts-artist-hsyn-akaf-1cdd35e429d8"
+    },
+    {
+      "artist_id": "term:760",
+      "identity_key": "id:term:760",
+      "name": "حسین مرتضایی",
+      "aliases": [
+        "حسین مرتضایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/760",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-mrtzayy-2a56ad82e343",
+      "skill_path": "../shiaarts-artist-hsyn-mrtzayy-2a56ad82e343"
+    },
+    {
+      "artist_id": "term:737",
+      "identity_key": "id:term:737",
+      "name": "حسین نجفی",
+      "aliases": [
+        "حسین نجفی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/737",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-njfy-891b224221f5",
+      "skill_path": "../shiaarts-artist-hsyn-njfy-891b224221f5"
+    },
+    {
+      "artist_id": "term:732",
+      "identity_key": "id:term:732",
+      "name": "حسین چمن‌خواه",
+      "aliases": [
+        "حسین چمن‌خواه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/732",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hsyn-chmn-khvah-ffa4ec3b3980",
+      "skill_path": "../shiaarts-artist-hsyn-chmn-khvah-ffa4ec3b3980"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86-%DA%86%D9%85%D9%86%E2%80%8C%D8%AE%D9%88%D8%A7%D9%87",
+      "name": "حسین چمن‌خواه",
+      "aliases": [
+        "حسین چمن‌خواه"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D8%B3%DB%8C%D9%86-%DA%86%D9%85%D9%86%E2%80%8C%D8%AE%D9%88%D8%A7%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hsyn-chmn-khvah-c8efc21f1e41",
+      "skill_path": "../shiaarts-artist-hsyn-chmn-khvah-c8efc21f1e41"
+    },
+    {
+      "artist_id": "term:733",
+      "identity_key": "id:term:733",
+      "name": "حمید قربان‌پور",
+      "aliases": [
+        "حمید قربان‌پور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/733",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmyd-ghrban-pvr-0c58350436da",
+      "skill_path": "../shiaarts-artist-hmyd-ghrban-pvr-0c58350436da"
+    },
+    {
+      "artist_id": "term:243",
+      "identity_key": "id:term:243",
+      "name": "حمید مازیار",
+      "aliases": [
+        "حمید مازیار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/243",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmyd-mazyar-2dc53e1db607",
+      "skill_path": "../shiaarts-artist-hmyd-mazyar-2dc53e1db607"
+    },
+    {
+      "artist_id": "term:1470",
+      "identity_key": "id:term:1470",
+      "name": "حمید ژولانژاد",
+      "aliases": [
+        "حمید ژولانژاد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1470",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmyd-zhvlanzhad-c5af2f9f4e1b",
+      "skill_path": "../shiaarts-artist-hmyd-zhvlanzhad-c5af2f9f4e1b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D9%85%DB%8C%D8%AF-%DA%98%D9%88%D9%84%D8%A7%D9%86%DA%98%D8%A7%D8%AF",
+      "name": "حمید ژولانژاد",
+      "aliases": [
+        "حمید ژولانژاد"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D9%85%DB%8C%D8%AF-%DA%98%D9%88%D9%84%D8%A7%D9%86%DA%98%D8%A7%D8%AF",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmyd-zhvlanzhad-aeea6f083839",
+      "skill_path": "../shiaarts-artist-hmyd-zhvlanzhad-aeea6f083839"
+    },
+    {
+      "artist_id": "term:701",
+      "identity_key": "id:term:701",
+      "name": "حمیدرضا کشاورزی",
+      "aliases": [
+        "حمیدرضا کشاورزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/701",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmydrza-kshavrzy-340d972f4bcc",
+      "skill_path": "../shiaarts-artist-hmydrza-kshavrzy-340d972f4bcc"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C",
+      "name": "حمیدرضا کشاورزی",
+      "aliases": [
+        "حمیدرضا کشاورزی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 3,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hmydrza-kshavrzy-255727d0f16a",
+      "skill_path": "../shiaarts-artist-hmydrza-kshavrzy-255727d0f16a"
+    },
+    {
+      "artist_id": "term:843",
+      "identity_key": "id:term:843",
+      "name": "حمیده حسینعلی‌زاده",
+      "aliases": [
+        "حمیده حسینعلی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/843",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmydh-hsynaly-zadh-a215b51de285",
+      "skill_path": "../shiaarts-artist-hmydh-hsynaly-zadh-a215b51de285"
+    },
+    {
+      "artist_id": "term:223",
+      "identity_key": "id:term:223",
+      "name": "دامون خانجانزاده",
+      "aliases": [
+        "دامون خانجانزاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/223",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-damvn-khanjanzadh-ceca6aa8c962",
+      "skill_path": "../shiaarts-artist-damvn-khanjanzadh-ceca6aa8c962"
+    },
+    {
+      "artist_id": "term:1155",
+      "identity_key": "id:term:1155",
+      "name": "داود بکتاش",
+      "aliases": [
+        "داود بکتاش"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1155",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-davd-bktash-f8d41dae490f",
+      "skill_path": "../shiaarts-artist-davd-bktash-f8d41dae490f"
+    },
+    {
+      "artist_id": "term:1438",
+      "identity_key": "id:term:1438",
+      "name": "دعاء العدل",
+      "aliases": [
+        "دعاء العدل"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1438",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-daa-aladl-b2ed7d927e00",
+      "skill_path": "../shiaarts-artist-daa-aladl-b2ed7d927e00"
+    },
+    {
+      "artist_id": "term:777",
+      "identity_key": "id:term:777",
+      "name": "رسول معصوم‌زاده",
+      "aliases": [
+        "رسول معصوم‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/777",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rsvl-masvm-zadh-3bb8de3bbc5b",
+      "skill_path": "../shiaarts-artist-rsvl-masvm-zadh-3bb8de3bbc5b"
+    },
+    {
+      "artist_id": "term:1313",
+      "identity_key": "id:term:1313",
+      "name": "رضا باباجانی",
+      "aliases": [
+        "رضا باباجانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1313",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-babajany-4b6779f97acf",
+      "skill_path": "../shiaarts-artist-rza-babajany-4b6779f97acf"
+    },
+    {
+      "artist_id": "term:806",
+      "identity_key": "id:term:806",
+      "name": "رضا بدرالسما",
+      "aliases": [
+        "رضا بدرالسما"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/806",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-bdralsma-aaebf2e386ef",
+      "skill_path": "../shiaarts-artist-rza-bdralsma-aaebf2e386ef"
+    },
+    {
+      "artist_id": "term:1293",
+      "identity_key": "id:term:1293",
+      "name": "رضا حاصلی ابرقویی",
+      "aliases": [
+        "رضا حاصلی ابرقویی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1293",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-hasly-abrghvyy-29a6f059adcb",
+      "skill_path": "../shiaarts-artist-rza-hasly-abrghvyy-29a6f059adcb"
+    },
+    {
+      "artist_id": "term:225",
+      "identity_key": "id:term:225",
+      "name": "رضا دالوند",
+      "aliases": [
+        "رضا دالوند"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/225",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-dalvnd-8c502acf7d0d",
+      "skill_path": "../shiaarts-artist-rza-dalvnd-8c502acf7d0d"
+    },
+    {
+      "artist_id": "term:1308",
+      "identity_key": "id:term:1308",
+      "name": "رضا راعی عمران",
+      "aliases": [
+        "رضا راعی عمران"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1308",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-raay-amran-513cf3ad392c",
+      "skill_path": "../shiaarts-artist-rza-raay-amran-513cf3ad392c"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B1%D8%B6%D8%A7-%D8%B1%D8%A7%D8%B9%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86",
+      "name": "رضا راعی عمران",
+      "aliases": [
+        "رضا راعی عمران"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B1%D8%B6%D8%A7-%D8%B1%D8%A7%D8%B9%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-raay-amran-86dfda9943f3",
+      "skill_path": "../shiaarts-artist-rza-raay-amran-86dfda9943f3"
+    },
+    {
+      "artist_id": "term:1283",
+      "identity_key": "id:term:1283",
+      "name": "رضا قصیر",
+      "aliases": [
+        "رضا قصیر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1283",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-ghsyr-509ecba79dac",
+      "skill_path": "../shiaarts-artist-rza-ghsyr-509ecba79dac"
+    },
+    {
+      "artist_id": "term:731",
+      "identity_key": "id:term:731",
+      "name": "رضا مافی",
+      "aliases": [
+        "رضا مافی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/731",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rza-mafy-f23e07db711b",
+      "skill_path": "../shiaarts-artist-rza-mafy-f23e07db711b"
+    },
+    {
+      "artist_id": "term:1157",
+      "identity_key": "id:term:1157",
+      "name": "روح الله ابوالفضلی",
+      "aliases": [
+        "روح الله ابوالفضلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1157",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rvh-allh-abvalfzly-6cd763360ae0",
+      "skill_path": "../shiaarts-artist-rvh-allh-abvalfzly-6cd763360ae0"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B1%D9%88%D8%AD-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84%DB%8C",
+      "name": "روح الله ابوالفضلی",
+      "aliases": [
+        "روح الله ابوالفضلی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B1%D9%88%D8%AD-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-rvh-allh-abvalfzly-850295402c41",
+      "skill_path": "../shiaarts-artist-rvh-allh-abvalfzly-850295402c41"
+    },
+    {
+      "artist_id": "term:187",
+      "identity_key": "id:term:187",
+      "name": "روح‌الله حسین‌زاده",
+      "aliases": [
+        "روح‌الله حسین‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/187",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rvh-allh-hsyn-zadh-2459636f2577",
+      "skill_path": "../shiaarts-artist-rvh-allh-hsyn-zadh-2459636f2577"
+    },
+    {
+      "artist_id": "term:755",
+      "identity_key": "id:term:755",
+      "name": "روح‌الله فاضلی",
+      "aliases": [
+        "روح‌الله فاضلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/755",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rvh-allh-fazly-9508e62827e4",
+      "skill_path": "../shiaarts-artist-rvh-allh-fazly-9508e62827e4"
+    },
+    {
+      "artist_id": "term:1262",
+      "identity_key": "id:term:1262",
+      "name": "روضان البهیة",
+      "aliases": [
+        "روضان البهیة"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1262",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-rvzan-albhyh-fd8c421e64be",
+      "skill_path": "../shiaarts-artist-rvzan-albhyh-fd8c421e64be"
+    },
+    {
+      "artist_id": "term:201",
+      "identity_key": "id:term:201",
+      "name": "زهرا کیانی",
+      "aliases": [
+        "زهرا کیانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/201",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-zhra-kyany-9355a448dee5",
+      "skill_path": "../shiaarts-artist-zhra-kyany-9355a448dee5"
+    },
+    {
+      "artist_id": "term:217",
+      "identity_key": "id:term:217",
+      "name": "زینب ربانی‌خواه",
+      "aliases": [
+        "زینب ربانی‌خواه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/217",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-zynb-rbany-khvah-13caffa1d8f1",
+      "skill_path": "../shiaarts-artist-zynb-rbany-khvah-13caffa1d8f1"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B2%DB%8C%D9%86%D8%A8-%D8%B1%D8%A8%D8%A7%D9%86%DB%8C%E2%80%8C%D8%AE%D9%88%D8%A7%D9%87",
+      "name": "زینب ربانی‌خواه",
+      "aliases": [
+        "زینب ربانی‌خواه"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B2%DB%8C%D9%86%D8%A8-%D8%B1%D8%A8%D8%A7%D9%86%DB%8C%E2%80%8C%D8%AE%D9%88%D8%A7%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-zynb-rbany-khvah-0c82e9bac69d",
+      "skill_path": "../shiaarts-artist-zynb-rbany-khvah-0c82e9bac69d"
+    },
+    {
+      "artist_id": "term:1439",
+      "identity_key": "id:term:1439",
+      "name": "زینة شریف",
+      "aliases": [
+        "زینة شریف"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1439",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-zynh-shryf-3f67f6fb3447",
+      "skill_path": "../shiaarts-artist-zynh-shryf-3f67f6fb3447"
+    },
+    {
+      "artist_id": "term:720",
+      "identity_key": "id:term:720",
+      "name": "سامی افندی",
+      "aliases": [
+        "سامی افندی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/720",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-samy-afndy-16f3c25b48da",
+      "skill_path": "../shiaarts-artist-samy-afndy-16f3c25b48da"
+    },
+    {
+      "artist_id": "term:1297",
+      "identity_key": "id:term:1297",
+      "name": "سجادعلی پورحیدری",
+      "aliases": [
+        "سجادعلی پورحیدری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1297",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sjadaly-pvrhydry-e58b944fb2ad",
+      "skill_path": "../shiaarts-artist-sjadaly-pvrhydry-e58b944fb2ad"
+    },
+    {
+      "artist_id": "term:1407",
+      "identity_key": "id:term:1407",
+      "name": "سعید صادقی",
+      "aliases": [
+        "سعید صادقی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1407",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sayd-sadghy-605c88bfb2c1",
+      "skill_path": "../shiaarts-artist-sayd-sadghy-605c88bfb2c1"
+    },
+    {
+      "artist_id": "term:188",
+      "identity_key": "id:term:188",
+      "name": "سعید محمودی ازناوه",
+      "aliases": [
+        "سعید محمودی ازناوه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/188",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sayd-mhmvdy-aznavh-e5d06a4829f6",
+      "skill_path": "../shiaarts-artist-sayd-mhmvdy-aznavh-e5d06a4829f6"
+    },
+    {
+      "artist_id": "term:746",
+      "identity_key": "id:term:746",
+      "name": "سعید کارخانه",
+      "aliases": [
+        "سعید کارخانه"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/746",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sayd-karkhanh-f48d72ed5922",
+      "skill_path": "../shiaarts-artist-sayd-karkhanh-f48d72ed5922"
+    },
+    {
+      "artist_id": "term:1422",
+      "identity_key": "id:term:1422",
+      "name": "سپیده حسین‌جواد",
+      "aliases": [
+        "سپیده حسین‌جواد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1422",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-spydh-hsyn-jvad-6e7cc3c477c1",
+      "skill_path": "../shiaarts-artist-spydh-hsyn-jvad-6e7cc3c477c1"
+    },
+    {
+      "artist_id": "term:744",
+      "identity_key": "id:term:744",
+      "name": "سیامک فیلی‌زاده",
+      "aliases": [
+        "سیامک فیلی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/744",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syamk-fyly-zadh-04807782a40c",
+      "skill_path": "../shiaarts-artist-syamk-fyly-zadh-04807782a40c"
+    },
+    {
+      "artist_id": "term:1042",
+      "identity_key": "id:term:1042",
+      "name": "سید امیر حسین طباطبایی",
+      "aliases": [
+        "سید امیر حسین طباطبایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1042",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syd-amyr-hsyn-tbatbayy-7a3ab1b05e0b",
+      "skill_path": "../shiaarts-artist-syd-amyr-hsyn-tbatbayy-7a3ab1b05e0b"
+    },
+    {
+      "artist_id": "term:739",
+      "identity_key": "id:term:739",
+      "name": "سید محمدرضا میری",
+      "aliases": [
+        "سید محمدرضا میری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/739",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syd-mhmdrza-myry-c3e0a0d640e0",
+      "skill_path": "../shiaarts-artist-syd-mhmdrza-myry-c3e0a0d640e0"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B3%DB%8C%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%85%DB%8C%D8%B1%DB%8C",
+      "name": "سید محمدرضا میری",
+      "aliases": [
+        "سید محمدرضا میری"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B3%DB%8C%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%85%DB%8C%D8%B1%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 6,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-syd-mhmdrza-myry-5e1961edb551",
+      "skill_path": "../shiaarts-artist-syd-mhmdrza-myry-5e1961edb551"
+    },
+    {
+      "artist_id": "term:730",
+      "identity_key": "id:term:730",
+      "name": "سید محمدعلی سیدابراهیمی",
+      "aliases": [
+        "سید محمدعلی سیدابراهیمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/730",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syd-mhmdaly-sydabrahymy-05717b194e2a",
+      "skill_path": "../shiaarts-artist-syd-mhmdaly-sydabrahymy-05717b194e2a"
+    },
+    {
+      "artist_id": "term:186",
+      "identity_key": "id:term:186",
+      "name": "سید محمدهادی قادری",
+      "aliases": [
+        "سید محمدهادی قادری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/186",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syd-mhmdhady-ghadry-aef80abcf178",
+      "skill_path": "../shiaarts-artist-syd-mhmdhady-ghadry-aef80abcf178"
+    },
+    {
+      "artist_id": "term:728",
+      "identity_key": "id:term:728",
+      "name": "سیداحسان باقری",
+      "aliases": [
+        "سیداحسان باقری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/728",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydahsan-baghry-bd60dc81fcbd",
+      "skill_path": "../shiaarts-artist-sydahsan-baghry-bd60dc81fcbd"
+    },
+    {
+      "artist_id": "term:1435",
+      "identity_key": "id:term:1435",
+      "name": "سیداحمد باقریان",
+      "aliases": [
+        "سیداحمد باقریان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1435",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydahmd-baghryan-ed1accb0d713",
+      "skill_path": "../shiaarts-artist-sydahmd-baghryan-ed1accb0d713"
+    },
+    {
+      "artist_id": "term:1247",
+      "identity_key": "id:term:1247",
+      "name": "سیداحمد خوانساری",
+      "aliases": [
+        "سیداحمد خوانساری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1247",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydahmd-khvansary-dc7f0029edcf",
+      "skill_path": "../shiaarts-artist-sydahmd-khvansary-dc7f0029edcf"
+    },
+    {
+      "artist_id": "term:1462",
+      "identity_key": "id:term:1462",
+      "name": "سیدالیاس قاسمی",
+      "aliases": [
+        "سیدالیاس قاسمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1462",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydalyas-ghasmy-c13ed8f7a22c",
+      "skill_path": "../shiaarts-artist-sydalyas-ghasmy-c13ed8f7a22c"
+    },
+    {
+      "artist_id": "term:213",
+      "identity_key": "id:term:213",
+      "name": "سیدایمان نوری نجفی",
+      "aliases": [
+        "سیدایمان نوری نجفی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/213",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydayman-nvry-njfy-23beefeb2d1f",
+      "skill_path": "../shiaarts-artist-sydayman-nvry-njfy-23beefeb2d1f"
+    },
+    {
+      "artist_id": "term:137",
+      "identity_key": "id:term:137",
+      "name": "سیدحسن موسی‌زاده",
+      "aliases": [
+        "سیدحسن موسی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/137",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydhsn-mvsy-zadh-2e1fc9d63416",
+      "skill_path": "../shiaarts-artist-sydhsn-mvsy-zadh-2e1fc9d63416"
+    },
+    {
+      "artist_id": "term:214",
+      "identity_key": "id:term:214",
+      "name": "سیدحمید شریفی",
+      "aliases": [
+        "سیدحمید شریفی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/214",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydhmyd-shryfy-c0da85ebb9c8",
+      "skill_path": "../shiaarts-artist-sydhmyd-shryfy-c0da85ebb9c8"
+    },
+    {
+      "artist_id": "term:807",
+      "identity_key": "id:term:807",
+      "name": "سیدرسول آقامیری",
+      "aliases": [
+        "سیدرسول آقامیری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/807",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydrsvl-aghamyry-981a948a4e6d",
+      "skill_path": "../shiaarts-artist-sydrsvl-aghamyry-981a948a4e6d"
+    },
+    {
+      "artist_id": "term:1411",
+      "identity_key": "id:term:1411",
+      "name": "سیدعلی آیت",
+      "aliases": [
+        "سیدعلی آیت"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1411",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydaly-ayt-ddc6cb49b91f",
+      "skill_path": "../shiaarts-artist-sydaly-ayt-ddc6cb49b91f"
+    },
+    {
+      "artist_id": "term:195",
+      "identity_key": "id:term:195",
+      "name": "سیدمحسن نوری نجفی",
+      "aliases": [
+        "سیدمحسن نوری نجفی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/195",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhsn-nvry-njfy-aa3001ab04f0",
+      "skill_path": "../shiaarts-artist-sydmhsn-nvry-njfy-aa3001ab04f0"
+    },
+    {
+      "artist_id": "term:221",
+      "identity_key": "id:term:221",
+      "name": "سیدمحمد احصایی",
+      "aliases": [
+        "سیدمحمد احصایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/221",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhmd-ahsayy-f790f8ed07b4",
+      "skill_path": "../shiaarts-artist-sydmhmd-ahsayy-f790f8ed07b4"
+    },
+    {
+      "artist_id": "term:1236",
+      "identity_key": "id:term:1236",
+      "name": "سیدمحمد برهانی",
+      "aliases": [
+        "سیدمحمد برهانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1236",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhmd-brhany-801b7b423ef0",
+      "skill_path": "../shiaarts-artist-sydmhmd-brhany-801b7b423ef0"
+    },
+    {
+      "artist_id": "term:198",
+      "identity_key": "id:term:198",
+      "name": "سیدمحمد موحد حسینی",
+      "aliases": [
+        "سیدمحمد موحد حسینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/198",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhmd-mvhd-hsyny-d08bc7c19b85",
+      "skill_path": "../shiaarts-artist-sydmhmd-mvhd-hsyny-d08bc7c19b85"
+    },
+    {
+      "artist_id": "term:1459",
+      "identity_key": "id:term:1459",
+      "name": "سیدمحمدعلی بلادی فرد",
+      "aliases": [
+        "سیدمحمدعلی بلادی فرد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1459",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhmdaly-blady-frd-460fa8ba7981",
+      "skill_path": "../shiaarts-artist-sydmhmdaly-blady-frd-460fa8ba7981"
+    },
+    {
+      "artist_id": "term:1428",
+      "identity_key": "id:term:1428",
+      "name": "سیدمسعود شجاعی طباطبایی",
+      "aliases": [
+        "سیدمسعود شجاعی طباطبایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1428",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmsavd-shjaay-tbatbayy-c60c98b7b481",
+      "skill_path": "../shiaarts-artist-sydmsavd-shjaay-tbatbayy-c60c98b7b481"
+    },
+    {
+      "artist_id": "term:699",
+      "identity_key": "id:term:699",
+      "name": "سیدمهدی حسینی",
+      "aliases": [
+        "سیدمهدی حسینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/699",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhdy-hsyny-1906567e8343",
+      "skill_path": "../shiaarts-artist-sydmhdy-hsyny-1906567e8343"
+    },
+    {
+      "artist_id": "term:1312",
+      "identity_key": "id:term:1312",
+      "name": "سیدمهدی سیدی‌نیا",
+      "aliases": [
+        "سیدمهدی سیدی‌نیا"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1312",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhdy-sydy-nya-35e3ae16d158",
+      "skill_path": "../shiaarts-artist-sydmhdy-sydy-nya-35e3ae16d158"
+    },
+    {
+      "artist_id": "term:705",
+      "identity_key": "id:term:705",
+      "name": "سیدمهدی میرحیدری",
+      "aliases": [
+        "سیدمهدی میرحیدری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/705",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydmhdy-myrhydry-da56f36f824e",
+      "skill_path": "../shiaarts-artist-sydmhdy-myrhydry-da56f36f824e"
+    },
+    {
+      "artist_id": "term:139",
+      "identity_key": "id:term:139",
+      "name": "سیدوحید موسوی‌جزایری",
+      "aliases": [
+        "سیدوحید موسوی‌جزایری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/139",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sydvhyd-mvsvy-jzayry-613c60f0e68e",
+      "skill_path": "../shiaarts-artist-sydvhyd-mvsvy-jzayry-613c60f0e68e"
+    },
+    {
+      "artist_id": "term:697",
+      "identity_key": "id:term:697",
+      "name": "سیف الله یزدانی",
+      "aliases": [
+        "سیف الله یزدانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/697",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syf-allh-yzdany-6fbaa7d4d278",
+      "skill_path": "../shiaarts-artist-syf-allh-yzdany-6fbaa7d4d278"
+    },
+    {
+      "artist_id": "term:208",
+      "identity_key": "id:term:208",
+      "name": "سینا رعیت دوست",
+      "aliases": [
+        "سینا رعیت دوست"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/208",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-syna-rayt-dvst-b61f9afc2949",
+      "skill_path": "../shiaarts-artist-syna-rayt-dvst-b61f9afc2949"
+    },
+    {
+      "artist_id": "term:179",
+      "identity_key": "id:term:179",
+      "name": "صابر شیخ‌رضایی",
+      "aliases": [
+        "صابر شیخ‌رضایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/179",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sabr-shykh-rzayy-53b4a127c512",
+      "skill_path": "../shiaarts-artist-sabr-shykh-rzayy-53b4a127c512"
+    },
+    {
+      "artist_id": "term:1487",
+      "identity_key": "id:term:1487",
+      "name": "صادق القصیر الحسینی",
+      "aliases": [
+        "صادق القصیر الحسینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1487",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sadgh-alghsyr-alhsyny-6ca784952f0b",
+      "skill_path": "../shiaarts-artist-sadgh-alghsyr-alhsyny-6ca784952f0b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%82%D8%B5%DB%8C%D8%B1-%D8%A7%D9%84%D8%AD%D8%B3%DB%8C%D9%86%DB%8C",
+      "name": "صادق القصیر الحسینی",
+      "aliases": [
+        "صادق القصیر الحسینی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%82%D8%B5%DB%8C%D8%B1-%D8%A7%D9%84%D8%AD%D8%B3%DB%8C%D9%86%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-sadgh-alghsyr-alhsyny-a042810e0ef9",
+      "skill_path": "../shiaarts-artist-sadgh-alghsyr-alhsyny-a042810e0ef9"
+    },
+    {
+      "artist_id": "term:241",
+      "identity_key": "id:term:241",
+      "name": "صادق انصاری",
+      "aliases": [
+        "صادق انصاری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/241",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sadgh-ansary-74f8e8e45d70",
+      "skill_path": "../shiaarts-artist-sadgh-ansary-74f8e8e45d70"
+    },
+    {
+      "artist_id": "term:138",
+      "identity_key": "id:term:138",
+      "name": "صداقت جباری",
+      "aliases": [
+        "صداقت جباری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/138",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-sdaght-jbary-1993ae4aa867",
+      "skill_path": "../shiaarts-artist-sdaght-jbary-1993ae4aa867"
+    },
+    {
+      "artist_id": "term:1454",
+      "identity_key": "id:term:1454",
+      "name": "ضیاء نسیم",
+      "aliases": [
+        "ضیاء نسیم"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1454",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-zya-nsym-3cc89947068f",
+      "skill_path": "../shiaarts-artist-zya-nsym-3cc89947068f"
+    },
+    {
+      "artist_id": "term:714",
+      "identity_key": "id:term:714",
+      "name": "طاهر نبی‌زاده",
+      "aliases": [
+        "طاهر نبی‌زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/714",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-tahr-nby-zadh-3762bd656d7c",
+      "skill_path": "../shiaarts-artist-tahr-nby-zadh-3762bd656d7c"
+    },
+    {
+      "artist_id": "term:784",
+      "identity_key": "id:term:784",
+      "name": "طیبه توسلی",
+      "aliases": [
+        "طیبه توسلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/784",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-tybh-tvsly-7d81882f8f88",
+      "skill_path": "../shiaarts-artist-tybh-tvsly-7d81882f8f88"
+    },
+    {
+      "artist_id": "term:1447",
+      "identity_key": "id:term:1447",
+      "name": "عارفه حمیدپور",
+      "aliases": [
+        "عارفه حمیدپور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1447",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aarfh-hmydpvr-5704306191e3",
+      "skill_path": "../shiaarts-artist-aarfh-hmydpvr-5704306191e3"
+    },
+    {
+      "artist_id": "term:1277",
+      "identity_key": "id:term:1277",
+      "name": "عباس اویسی (الموسوی)",
+      "aliases": [
+        "عباس اویسی (الموسوی)"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1277",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abas-avysy-almvsvy-aac639949df4",
+      "skill_path": "../shiaarts-artist-abas-avysy-almvsvy-aac639949df4"
+    },
+    {
+      "artist_id": "term:1472",
+      "identity_key": "id:term:1472",
+      "name": "عباس بغدادی",
+      "aliases": [
+        "عباس بغدادی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1472",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abas-bghdady-0b555b958538",
+      "skill_path": "../shiaarts-artist-abas-bghdady-0b555b958538"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%DB%8C",
+      "name": "عباس بغدادی",
+      "aliases": [
+        "عباس بغدادی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abas-bghdady-70bc95e5f4de",
+      "skill_path": "../shiaarts-artist-abas-bghdady-70bc95e5f4de"
+    },
+    {
+      "artist_id": "term:1179",
+      "identity_key": "id:term:1179",
+      "name": "عبدالحسین قزوینی",
+      "aliases": [
+        "عبدالحسین قزوینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1179",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abdalhsyn-ghzvyny-f2a7aa110c53",
+      "skill_path": "../shiaarts-artist-abdalhsyn-ghzvyny-f2a7aa110c53"
+    },
+    {
+      "artist_id": "term:209",
+      "identity_key": "id:term:209",
+      "name": "عبدالرسول یاقوتی",
+      "aliases": [
+        "عبدالرسول یاقوتی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/209",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abdalrsvl-yaghvty-4b75aa5e7f20",
+      "skill_path": "../shiaarts-artist-abdalrsvl-yaghvty-4b75aa5e7f20"
+    },
+    {
+      "artist_id": "term:1162",
+      "identity_key": "id:term:1162",
+      "name": "عبدالرضا چاره‌ئی",
+      "aliases": [
+        "عبدالرضا چاره‌ئی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1162",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abdalrza-charh-yy-bc4fa0d6a4fe",
+      "skill_path": "../shiaarts-artist-abdalrza-charh-yy-bc4fa0d6a4fe"
+    },
+    {
+      "artist_id": "term:1485",
+      "identity_key": "id:term:1485",
+      "name": "عبدالله زهدی افندی",
+      "aliases": [
+        "عبدالله زهدی افندی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1485",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abdallh-zhdy-afndy-2fda95e91750",
+      "skill_path": "../shiaarts-artist-abdallh-zhdy-afndy-2fda95e91750"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%B2%D9%87%D8%AF%DB%8C-%D8%A7%D9%81%D9%86%D8%AF%DB%8C",
+      "name": "عبدالله زهدی افندی",
+      "aliases": [
+        "عبدالله زهدی افندی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%B2%D9%87%D8%AF%DB%8C-%D8%A7%D9%81%D9%86%D8%AF%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-abdallh-zhdy-afndy-fdd5e5a33556",
+      "skill_path": "../shiaarts-artist-abdallh-zhdy-afndy-fdd5e5a33556"
+    },
+    {
+      "artist_id": "term:207",
+      "identity_key": "id:term:207",
+      "name": "عبدالله هروی",
+      "aliases": [
+        "عبدالله هروی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/207",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-abdallh-hrvy-169061c8b076",
+      "skill_path": "../shiaarts-artist-abdallh-hrvy-169061c8b076"
+    },
+    {
+      "artist_id": "term:1321",
+      "identity_key": "id:term:1321",
+      "name": "عدنان القزاز",
+      "aliases": [
+        "عدنان القزاز"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1321",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-adnan-alghzaz-4647819de5a2",
+      "skill_path": "../shiaarts-artist-adnan-alghzaz-4647819de5a2"
+    },
+    {
+      "artist_id": "term:715",
+      "identity_key": "id:term:715",
+      "name": "عصام السعید",
+      "aliases": [
+        "عصام السعید"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/715",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-asam-alsayd-89707788976a",
+      "skill_path": "../shiaarts-artist-asam-alsayd-89707788976a"
+    },
+    {
+      "artist_id": "term:734",
+      "identity_key": "id:term:734",
+      "name": "علاءالدین تبریزی",
+      "aliases": [
+        "علاءالدین تبریزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/734",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alaaldyn-tbryzy-9532b7b0fa2a",
+      "skill_path": "../shiaarts-artist-alaaldyn-tbryzy-9532b7b0fa2a"
+    },
+    {
+      "artist_id": "term:1380",
+      "identity_key": "id:term:1380",
+      "name": "علی الحسانی",
+      "aliases": [
+        "علی الحسانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1380",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-alhsany-af3a0f832271",
+      "skill_path": "../shiaarts-artist-aly-alhsany-af3a0f832271"
+    },
+    {
+      "artist_id": "term:1141",
+      "identity_key": "id:term:1141",
+      "name": "علی‌اکبر صادقی",
+      "aliases": [
+        "علی‌اکبر صادقی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1141",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-akbr-sadghy-dbc469dac7ce",
+      "skill_path": "../shiaarts-artist-aly-akbr-sadghy-dbc469dac7ce"
+    },
+    {
+      "artist_id": "term:1294",
+      "identity_key": "id:term:1294",
+      "name": "علی بحرینی",
+      "aliases": [
+        "علی بحرینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1294",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-bhryny-d8c5d7e541a6",
+      "skill_path": "../shiaarts-artist-aly-bhryny-d8c5d7e541a6"
+    },
+    {
+      "artist_id": "term:1430",
+      "identity_key": "id:term:1430",
+      "name": "علی بسام",
+      "aliases": [
+        "علی بسام"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1430",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-bsam-04b556667a05",
+      "skill_path": "../shiaarts-artist-aly-bsam-04b556667a05"
+    },
+    {
+      "artist_id": "term:1306",
+      "identity_key": "id:term:1306",
+      "name": "علی خلج",
+      "aliases": [
+        "علی خلج"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1306",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-khlj-2277f7fa6d4d",
+      "skill_path": "../shiaarts-artist-aly-khlj-2277f7fa6d4d"
+    },
+    {
+      "artist_id": "term:1307",
+      "identity_key": "id:term:1307",
+      "name": "علی خلج",
+      "aliases": [
+        "علی خلج"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1307",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-khlj-64cf5d19f563",
+      "skill_path": "../shiaarts-artist-aly-khlj-64cf5d19f563"
+    },
+    {
+      "artist_id": "term:750",
+      "identity_key": "id:term:750",
+      "name": "علی رضاییان",
+      "aliases": [
+        "علی رضاییان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/750",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-rzayyan-ab33c270a767",
+      "skill_path": "../shiaarts-artist-aly-rzayyan-ab33c270a767"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C%D8%A7%D9%86",
+      "name": "علی رضاییان",
+      "aliases": [
+        "علی رضاییان"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C%D8%A7%D9%86",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 6,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-aly-rzayyan-3bccf3e6c48c",
+      "skill_path": "../shiaarts-artist-aly-rzayyan-3bccf3e6c48c"
+    },
+    {
+      "artist_id": "term:1327",
+      "identity_key": "id:term:1327",
+      "name": "علی زیارانی",
+      "aliases": [
+        "علی زیارانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1327",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-zyarany-e9dd84fd8a7a",
+      "skill_path": "../shiaarts-artist-aly-zyarany-e9dd84fd8a7a"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D8%B2%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%DB%8C",
+      "name": "علی زیارانی",
+      "aliases": [
+        "علی زیارانی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D8%B2%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-zyarany-14e06313dea4",
+      "skill_path": "../shiaarts-artist-aly-zyarany-14e06313dea4"
+    },
+    {
+      "artist_id": "term:696",
+      "identity_key": "id:term:696",
+      "name": "علی عسکر ارسنجانی",
+      "aliases": [
+        "علی عسکر ارسنجانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/696",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-askr-arsnjany-8ff9e93371f1",
+      "skill_path": "../shiaarts-artist-aly-askr-arsnjany-8ff9e93371f1"
+    },
+    {
+      "artist_id": "term:1291",
+      "identity_key": "id:term:1291",
+      "name": "علی مصطفوی",
+      "aliases": [
+        "علی مصطفوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1291",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-mstfvy-0442862aff2f",
+      "skill_path": "../shiaarts-artist-aly-mstfvy-0442862aff2f"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D9%85%D8%B5%D8%B7%D9%81%D9%88%DB%8C",
+      "name": "علی مصطفوی",
+      "aliases": [
+        "علی مصطفوی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C-%D9%85%D8%B5%D8%B7%D9%81%D9%88%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 5,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-mstfvy-3655c6b1e073",
+      "skill_path": "../shiaarts-artist-aly-mstfvy-3655c6b1e073"
+    },
+    {
+      "artist_id": "term:726",
+      "identity_key": "id:term:726",
+      "name": "علی وزیریان",
+      "aliases": [
+        "علی وزیریان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/726",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-vzyryan-0c1adf493257",
+      "skill_path": "../shiaarts-artist-aly-vzyryan-0c1adf493257"
+    },
+    {
+      "artist_id": "term:724",
+      "identity_key": "id:term:724",
+      "name": "علی کیان‌مهر",
+      "aliases": [
+        "علی کیان‌مهر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/724",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-aly-kyan-mhr-d569f3d23bfd",
+      "skill_path": "../shiaarts-artist-aly-kyan-mhr-d569f3d23bfd"
+    },
+    {
+      "artist_id": "term:218",
+      "identity_key": "id:term:218",
+      "name": "علیرضا حصارکی",
+      "aliases": [
+        "علیرضا حصارکی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/218",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-hsarky-36f23de0005f",
+      "skill_path": "../shiaarts-artist-alyrza-hsarky-36f23de0005f"
+    },
+    {
+      "artist_id": "term:757",
+      "identity_key": "id:term:757",
+      "name": "علیرضا ذاکری",
+      "aliases": [
+        "علیرضا ذاکری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/757",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-zakry-ebb571516f53",
+      "skill_path": "../shiaarts-artist-alyrza-zakry-ebb571516f53"
+    },
+    {
+      "artist_id": "term:1483",
+      "identity_key": "id:term:1483",
+      "name": "علیرضا صوفی",
+      "aliases": [
+        "علیرضا صوفی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1483",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-svfy-99c6315f47de",
+      "skill_path": "../shiaarts-artist-alyrza-svfy-99c6315f47de"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B5%D9%88%D9%81%DB%8C",
+      "name": "علیرضا صوفی",
+      "aliases": [
+        "علیرضا صوفی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B5%D9%88%D9%81%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-svfy-7fd458581c48",
+      "skill_path": "../shiaarts-artist-alyrza-svfy-7fd458581c48"
+    },
+    {
+      "artist_id": "term:1432",
+      "identity_key": "id:term:1432",
+      "name": "علیرضا قراگزلو",
+      "aliases": [
+        "علیرضا قراگزلو"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1432",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-ghragzlv-b5a7c5488fef",
+      "skill_path": "../shiaarts-artist-alyrza-ghragzlv-b5a7c5488fef"
+    },
+    {
+      "artist_id": "term:1226",
+      "identity_key": "id:term:1226",
+      "name": "علیرضا قزی",
+      "aliases": [
+        "علیرضا قزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1226",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-ghzy-458b91886d73",
+      "skill_path": "../shiaarts-artist-alyrza-ghzy-458b91886d73"
+    },
+    {
+      "artist_id": "term:847",
+      "identity_key": "id:term:847",
+      "name": "علیرضا محبی",
+      "aliases": [
+        "علیرضا محبی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/847",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-mhby-db2ade06bdb1",
+      "skill_path": "../shiaarts-artist-alyrza-mhby-db2ade06bdb1"
+    },
+    {
+      "artist_id": "term:1421",
+      "identity_key": "id:term:1421",
+      "name": "علیرضا پوراکبری",
+      "aliases": [
+        "علیرضا پوراکبری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1421",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-alyrza-pvrakbry-8a21aeb55ed5",
+      "skill_path": "../shiaarts-artist-alyrza-pvrakbry-8a21aeb55ed5"
+    },
+    {
+      "artist_id": "term:1275",
+      "identity_key": "id:term:1275",
+      "name": "عمار",
+      "aliases": [
+        "عمار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1275",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-amar-41c9f0245b1a",
+      "skill_path": "../shiaarts-artist-amar-41c9f0245b1a"
+    },
+    {
+      "artist_id": "term:698",
+      "identity_key": "id:term:698",
+      "name": "عنایت حسین‌پور",
+      "aliases": [
+        "عنایت حسین‌پور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/698",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-anayt-hsyn-pvr-1aef7907ad96",
+      "skill_path": "../shiaarts-artist-anayt-hsyn-pvr-1aef7907ad96"
+    },
+    {
+      "artist_id": "term:758",
+      "identity_key": "id:term:758",
+      "name": "غفار قنبرپور",
+      "aliases": [
+        "غفار قنبرپور"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/758",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ghfar-ghnbrpvr-75f398916876",
+      "skill_path": "../shiaarts-artist-ghfar-ghnbrpvr-75f398916876"
+    },
+    {
+      "artist_id": "term:811",
+      "identity_key": "id:term:811",
+      "name": "فاطمه سادات درة‌التاج طهرانی",
+      "aliases": [
+        "فاطمه سادات درة‌التاج طهرانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/811",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-fatmh-sadat-drh-altaj-thrany-1d00d62bada9",
+      "skill_path": "../shiaarts-artist-fatmh-sadat-drh-altaj-thrany-1d00d62bada9"
+    },
+    {
+      "artist_id": "term:741",
+      "identity_key": "id:term:741",
+      "name": "فراس عباس",
+      "aliases": [
+        "فراس عباس"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/741",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-fras-abas-d1e1c22abd21",
+      "skill_path": "../shiaarts-artist-fras-abas-d1e1c22abd21"
+    },
+    {
+      "artist_id": "term:1474",
+      "identity_key": "id:term:1474",
+      "name": "فرهاد قورلو",
+      "aliases": [
+        "فرهاد قورلو"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1474",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-frhad-ghvrlv-dfc6f97ee67d",
+      "skill_path": "../shiaarts-artist-frhad-ghvrlv-dfc6f97ee67d"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%81%D8%B1%D9%87%D8%A7%D8%AF-%D9%82%D9%88%D8%B1%D9%84%D9%88",
+      "name": "فرهاد قورلو",
+      "aliases": [
+        "فرهاد قورلو"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%81%D8%B1%D9%87%D8%A7%D8%AF-%D9%82%D9%88%D8%B1%D9%84%D9%88",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-frhad-ghvrlv-50398dff42f6",
+      "skill_path": "../shiaarts-artist-frhad-ghvrlv-50398dff42f6"
+    },
+    {
+      "artist_id": "term:136",
+      "identity_key": "id:term:136",
+      "name": "فرهود مقدم",
+      "aliases": [
+        "فرهود مقدم"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/136",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-frhvd-mghdm-f2dc95ac3f66",
+      "skill_path": "../shiaarts-artist-frhvd-mghdm-f2dc95ac3f66"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%81%D8%B1%D9%87%D9%88%D8%AF-%D9%85%D9%82%D8%AF%D9%85",
+      "name": "فرهود مقدم",
+      "aliases": [
+        "فرهود مقدم"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%81%D8%B1%D9%87%D9%88%D8%AF-%D9%85%D9%82%D8%AF%D9%85",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-frhvd-mghdm-2f886f5e696c",
+      "skill_path": "../shiaarts-artist-frhvd-mghdm-2f886f5e696c"
+    },
+    {
+      "artist_id": "term:1458",
+      "identity_key": "id:term:1458",
+      "name": "فریبا صفرآبادی فراهانی",
+      "aliases": [
+        "فریبا صفرآبادی فراهانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1458",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-fryba-sfrabady-frahany-a23a2bf2899c",
+      "skill_path": "../shiaarts-artist-fryba-sfrabady-frahany-a23a2bf2899c"
+    },
+    {
+      "artist_id": "term:775",
+      "identity_key": "id:term:775",
+      "name": "فرید الدین",
+      "aliases": [
+        "فرید الدین"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/775",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-fryd-aldyn-1f0151d4022e",
+      "skill_path": "../shiaarts-artist-fryd-aldyn-1f0151d4022e"
+    },
+    {
+      "artist_id": "term:1266",
+      "identity_key": "id:term:1266",
+      "name": "قاسم حیدر",
+      "aliases": [
+        "قاسم حیدر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1266",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ghasm-hydr-5478a70855d0",
+      "skill_path": "../shiaarts-artist-ghasm-hydr-5478a70855d0"
+    },
+    {
+      "artist_id": "term:706",
+      "identity_key": "id:term:706",
+      "name": "قباد شیوا",
+      "aliases": [
+        "قباد شیوا"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/706",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-ghbad-shyva-4381caf25a92",
+      "skill_path": "../shiaarts-artist-ghbad-shyva-4381caf25a92"
+    },
+    {
+      "artist_id": "term:729",
+      "identity_key": "id:term:729",
+      "name": "مثنی العبیدی",
+      "aliases": [
+        "مثنی العبیدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/729",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msny-alabydy-63da4a5d42d3",
+      "skill_path": "../shiaarts-artist-msny-alabydy-63da4a5d42d3"
+    },
+    {
+      "artist_id": "term:1324",
+      "identity_key": "id:term:1324",
+      "name": "مجتبی حسن زاده",
+      "aliases": [
+        "مجتبی حسن زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1324",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjtby-hsn-zadh-1d2128a3e323",
+      "skill_path": "../shiaarts-artist-mjtby-hsn-zadh-1d2128a3e323"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AD%D8%B3%D9%86-%D8%B2%D8%A7%D8%AF%D9%87",
+      "name": "مجتبی حسن زاده",
+      "aliases": [
+        "مجتبی حسن زاده"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%AD%D8%B3%D9%86-%D8%B2%D8%A7%D8%AF%D9%87",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mjtby-hsn-zadh-6b7711c23560",
+      "skill_path": "../shiaarts-artist-mjtby-hsn-zadh-6b7711c23560"
+    },
+    {
+      "artist_id": "term:1251",
+      "identity_key": "id:term:1251",
+      "name": "مجتبی مجلسی",
+      "aliases": [
+        "مجتبی مجلسی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1251",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjtby-mjlsy-a3a07a9a2057",
+      "skill_path": "../shiaarts-artist-mjtby-mjlsy-a3a07a9a2057"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-0",
+      "name": "مجتبی مجلسی",
+      "aliases": [
+        "مجتبی مجلسی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-0",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mjtby-mjlsy-b45815a83e8d",
+      "skill_path": "../shiaarts-artist-mjtby-mjlsy-b45815a83e8d"
+    },
+    {
+      "artist_id": "term:723",
+      "identity_key": "id:term:723",
+      "name": "مجید جدیدی",
+      "aliases": [
+        "مجید جدیدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/723",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-jdydy-ed6740c41071",
+      "skill_path": "../shiaarts-artist-mjyd-jdydy-ed6740c41071"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%DB%8C%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C",
+      "name": "مجید جدیدی",
+      "aliases": [
+        "مجید جدیدی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%DB%8C%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 5,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-jdydy-79ea184ef3cc",
+      "skill_path": "../shiaarts-artist-mjyd-jdydy-79ea184ef3cc"
+    },
+    {
+      "artist_id": "term:1473",
+      "identity_key": "id:term:1473",
+      "name": "مجید رستگار",
+      "aliases": [
+        "مجید رستگار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1473",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-rstgar-11c58f32144b",
+      "skill_path": "../shiaarts-artist-mjyd-rstgar-11c58f32144b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%DB%8C%D8%AF-%D8%B1%D8%B3%D8%AA%DA%AF%D8%A7%D8%B1",
+      "name": "مجید رستگار",
+      "aliases": [
+        "مجید رستگار"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AC%DB%8C%D8%AF-%D8%B1%D8%B3%D8%AA%DA%AF%D8%A7%D8%B1",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-rstgar-e8ad0baa4d8a",
+      "skill_path": "../shiaarts-artist-mjyd-rstgar-e8ad0baa4d8a"
+    },
+    {
+      "artist_id": "term:700",
+      "identity_key": "id:term:700",
+      "name": "مجید زارع",
+      "aliases": [
+        "مجید زارع"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/700",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-zara-939fbf7277aa",
+      "skill_path": "../shiaarts-artist-mjyd-zara-939fbf7277aa"
+    },
+    {
+      "artist_id": "term:1301",
+      "identity_key": "id:term:1301",
+      "name": "مجید قادری",
+      "aliases": [
+        "مجید قادری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1301",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mjyd-ghadry-033d319d39b8",
+      "skill_path": "../shiaarts-artist-mjyd-ghadry-033d319d39b8"
+    },
+    {
+      "artist_id": "term:797",
+      "identity_key": "id:term:797",
+      "name": "محسن قراری",
+      "aliases": [
+        "محسن قراری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/797",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhsn-ghrary-54dbb59c7f80",
+      "skill_path": "../shiaarts-artist-mhsn-ghrary-54dbb59c7f80"
+    },
+    {
+      "artist_id": "term:228",
+      "identity_key": "id:term:228",
+      "name": "محمد ابراهیم",
+      "aliases": [
+        "محمد ابراهیم"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/228",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-abrahym-40ff7e2e66a5",
+      "skill_path": "../shiaarts-artist-mhmd-abrahym-40ff7e2e66a5"
+    },
+    {
+      "artist_id": "term:1490",
+      "identity_key": "id:term:1490",
+      "name": "محمد الحسنی الشهرستانی",
+      "aliases": [
+        "محمد الحسنی الشهرستانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1490",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-alhsny-alshhrstany-995b75f3a58b",
+      "skill_path": "../shiaarts-artist-mhmd-alhsny-alshhrstany-995b75f3a58b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%DB%8C-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C",
+      "name": "محمد الحسنی الشهرستانی",
+      "aliases": [
+        "محمد الحسنی الشهرستانی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%DB%8C-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mhmd-alhsny-alshhrstany-f3f63a824631",
+      "skill_path": "../shiaarts-artist-mhmd-alhsny-alshhrstany-f3f63a824631"
+    },
+    {
+      "artist_id": "term:804",
+      "identity_key": "id:term:804",
+      "name": "محمد توکلی",
+      "aliases": [
+        "محمد توکلی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/804",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-tvkly-72a5f9897aca",
+      "skill_path": "../shiaarts-artist-mhmd-tvkly-72a5f9897aca"
+    },
+    {
+      "artist_id": "term:1046",
+      "identity_key": "id:term:1046",
+      "name": "محمد حسن سروری",
+      "aliases": [
+        "محمد حسن سروری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1046",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-hsn-srvry-cd778e577a49",
+      "skill_path": "../shiaarts-artist-mhmd-hsn-srvry-cd778e577a49"
+    },
+    {
+      "artist_id": "term:852",
+      "identity_key": "id:term:852",
+      "name": "محمد خزایی",
+      "aliases": [
+        "محمد خزایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/852",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-khzayy-500d62fd3d79",
+      "skill_path": "../shiaarts-artist-mhmd-khzayy-500d62fd3d79"
+    },
+    {
+      "artist_id": "term:1107",
+      "identity_key": "id:term:1107",
+      "name": "محمد خیاطی",
+      "aliases": [
+        "محمد خیاطی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1107",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-khyaty-67a16322f3ce",
+      "skill_path": "../shiaarts-artist-mhmd-khyaty-67a16322f3ce"
+    },
+    {
+      "artist_id": "term:695",
+      "identity_key": "id:term:695",
+      "name": "محمد ربیعی",
+      "aliases": [
+        "محمد ربیعی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/695",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-rbyay-5a59b63b47ea",
+      "skill_path": "../shiaarts-artist-mhmd-rbyay-5a59b63b47ea"
+    },
+    {
+      "artist_id": "term:1156",
+      "identity_key": "id:term:1156",
+      "name": "محمد رحیم همدانی",
+      "aliases": [
+        "محمد رحیم همدانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1156",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-rhym-hmdany-2e7d26b4bfea",
+      "skill_path": "../shiaarts-artist-mhmd-rhym-hmdany-2e7d26b4bfea"
+    },
+    {
+      "artist_id": "term:1488",
+      "identity_key": "id:term:1488",
+      "name": "محمد سیلیک",
+      "aliases": [
+        "محمد سیلیک"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1488",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-sylyk-9070c9b106b7",
+      "skill_path": "../shiaarts-artist-mhmd-sylyk-9070c9b106b7"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9",
+      "name": "محمد سیلیک",
+      "aliases": [
+        "محمد سیلیک"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mhmd-sylyk-b5f5484a0362",
+      "skill_path": "../shiaarts-artist-mhmd-sylyk-b5f5484a0362"
+    },
+    {
+      "artist_id": "term:798",
+      "identity_key": "id:term:798",
+      "name": "محمد شکرالله الحسینی",
+      "aliases": [
+        "محمد شکرالله الحسینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/798",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-shkrallh-alhsyny-c9cc3e77f6e0",
+      "skill_path": "../shiaarts-artist-mhmd-shkrallh-alhsyny-c9cc3e77f6e0"
+    },
+    {
+      "artist_id": "term:1489",
+      "identity_key": "id:term:1489",
+      "name": "محمد صالح الجعدبی",
+      "aliases": [
+        "محمد صالح الجعدبی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1489",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-salh-aljadby-a690bf2cd2d3",
+      "skill_path": "../shiaarts-artist-mhmd-salh-aljadby-a690bf2cd2d3"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%AC%D8%B9%D8%AF%D8%A8%DB%8C",
+      "name": "محمد صالح الجعدبی",
+      "aliases": [
+        "محمد صالح الجعدبی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%AC%D8%B9%D8%AF%D8%A8%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mhmd-salh-aljadby-fd2b883aa359",
+      "skill_path": "../shiaarts-artist-mhmd-salh-aljadby-fd2b883aa359"
+    },
+    {
+      "artist_id": "term:1441",
+      "identity_key": "id:term:1441",
+      "name": "محمد صالحی",
+      "aliases": [
+        "محمد صالحی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1441",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-salhy-29f5b8e91de9",
+      "skill_path": "../shiaarts-artist-mhmd-salhy-29f5b8e91de9"
+    },
+    {
+      "artist_id": "term:846",
+      "identity_key": "id:term:846",
+      "name": "محمد طاهرزاده",
+      "aliases": [
+        "محمد طاهرزاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/846",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-tahrzadh-7649cdd8fa12",
+      "skill_path": "../shiaarts-artist-mhmd-tahrzadh-7649cdd8fa12"
+    },
+    {
+      "artist_id": "term:1310",
+      "identity_key": "id:term:1310",
+      "name": "محمد پلوزاده",
+      "aliases": [
+        "محمد پلوزاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1310",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-plvzadh-42345a944eaa",
+      "skill_path": "../shiaarts-artist-mhmd-plvzadh-42345a944eaa"
+    },
+    {
+      "artist_id": "term:1120",
+      "identity_key": "id:term:1120",
+      "name": "محمد کاشانی آزاد",
+      "aliases": [
+        "محمد کاشانی آزاد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1120",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmd-kashany-azad-e7f1836543d3",
+      "skill_path": "../shiaarts-artist-mhmd-kashany-azad-e7f1836543d3"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF",
+      "name": "محمد کاشانی آزاد",
+      "aliases": [
+        "محمد کاشانی آزاد"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mhmd-kashany-azad-4585afc92854",
+      "skill_path": "../shiaarts-artist-mhmd-kashany-azad-4585afc92854"
+    },
+    {
+      "artist_id": "term:851",
+      "identity_key": "id:term:851",
+      "name": "محمدتقی اسدی",
+      "aliases": [
+        "محمدتقی اسدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/851",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdtghy-asdy-0e3ed539e3b3",
+      "skill_path": "../shiaarts-artist-mhmdtghy-asdy-0e3ed539e3b3"
+    },
+    {
+      "artist_id": "term:1325",
+      "identity_key": "id:term:1325",
+      "name": "محمدجواد معصومی",
+      "aliases": [
+        "محمدجواد معصومی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1325",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdjvad-masvmy-b0376461c71b",
+      "skill_path": "../shiaarts-artist-mhmdjvad-masvmy-b0376461c71b"
+    },
+    {
+      "artist_id": "term:222",
+      "identity_key": "id:term:222",
+      "name": "محمدحسین بن یزدی",
+      "aliases": [
+        "محمدحسین بن یزدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/222",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-bn-yzdy-8375a2ebeb82",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-bn-yzdy-8375a2ebeb82"
+    },
+    {
+      "artist_id": "term:1282",
+      "identity_key": "id:term:1282",
+      "name": "محمدحسین داوری",
+      "aliases": [
+        "محمدحسین داوری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1282",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-davry-c67619ff897b",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-davry-c67619ff897b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%DB%8C%D9%86-%D8%AF%D8%A7%D9%88%D8%B1%DB%8C",
+      "name": "محمدحسین داوری",
+      "aliases": [
+        "محمدحسین داوری"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%DB%8C%D9%86-%D8%AF%D8%A7%D9%88%D8%B1%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-davry-52510f5f2f2f",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-davry-52510f5f2f2f"
+    },
+    {
+      "artist_id": "term:183",
+      "identity_key": "id:term:183",
+      "name": "محمدحسین مویدی",
+      "aliases": [
+        "محمدحسین مویدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/183",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-mvydy-a9dc95b278a9",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-mvydy-a9dc95b278a9"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%DB%8C%D9%86-%D9%85%D9%88%DB%8C%D8%AF%DB%8C",
+      "name": "محمدحسین مویدی",
+      "aliases": [
+        "محمدحسین مویدی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%DB%8C%D9%86-%D9%85%D9%88%DB%8C%D8%AF%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-mvydy-a7583bcafed4",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-mvydy-a7583bcafed4"
+    },
+    {
+      "artist_id": "term:1431",
+      "identity_key": "id:term:1431",
+      "name": "محمدحسین نیرومند",
+      "aliases": [
+        "محمدحسین نیرومند"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1431",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-nyrvmnd-85275320f505",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-nyrvmnd-85275320f505"
+    },
+    {
+      "artist_id": "term:707",
+      "identity_key": "id:term:707",
+      "name": "محمدحسین همدانیان",
+      "aliases": [
+        "محمدحسین همدانیان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/707",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdhsyn-hmdanyan-722dfc9dbe97",
+      "skill_path": "../shiaarts-artist-mhmdhsyn-hmdanyan-722dfc9dbe97"
+    },
+    {
+      "artist_id": "term:1218",
+      "identity_key": "id:term:1218",
+      "name": "محمدرضا بلال",
+      "aliases": [
+        "محمدرضا بلال"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1218",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdrza-blal-bc36d45d2179",
+      "skill_path": "../shiaarts-artist-mhmdrza-blal-bc36d45d2179"
+    },
+    {
+      "artist_id": "term:234",
+      "identity_key": "id:term:234",
+      "name": "محمدرضا دوست محمدی",
+      "aliases": [
+        "محمدرضا دوست محمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/234",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdrza-dvst-mhmdy-f724d9a847f2",
+      "skill_path": "../shiaarts-artist-mhmdrza-dvst-mhmdy-f724d9a847f2"
+    },
+    {
+      "artist_id": "term:1331",
+      "identity_key": "id:term:1331",
+      "name": "محمدرضا رستمی",
+      "aliases": [
+        "محمدرضا رستمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1331",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdrza-rstmy-57303b08e48f",
+      "skill_path": "../shiaarts-artist-mhmdrza-rstmy-57303b08e48f"
+    },
+    {
+      "artist_id": "term:1311",
+      "identity_key": "id:term:1311",
+      "name": "محمدرضا مهدیانی",
+      "aliases": [
+        "محمدرضا مهدیانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1311",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdrza-mhdyany-5d39e3a68f30",
+      "skill_path": "../shiaarts-artist-mhmdrza-mhdyany-5d39e3a68f30"
+    },
+    {
+      "artist_id": "term:736",
+      "identity_key": "id:term:736",
+      "name": "محمدشفیع بن علی‌عسکر ارسنجانی",
+      "aliases": [
+        "محمدشفیع بن علی‌عسکر ارسنجانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/736",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdshfya-bn-aly-askr-arsnjany-eb64a8238290",
+      "skill_path": "../shiaarts-artist-mhmdshfya-bn-aly-askr-arsnjany-eb64a8238290"
+    },
+    {
+      "artist_id": "term:1330",
+      "identity_key": "id:term:1330",
+      "name": "محمدصادق پوروهاب",
+      "aliases": [
+        "محمدصادق پوروهاب"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1330",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdsadgh-pvrvhab-7d2c34b91a3b",
+      "skill_path": "../shiaarts-artist-mhmdsadgh-pvrvhab-7d2c34b91a3b"
+    },
+    {
+      "artist_id": "term:1269",
+      "identity_key": "id:term:1269",
+      "name": "محمدصادق کوچک زاده",
+      "aliases": [
+        "محمدصادق کوچک زاده"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1269",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdsadgh-kvchk-zadh-d08a2217f473",
+      "skill_path": "../shiaarts-artist-mhmdsadgh-kvchk-zadh-d08a2217f473"
+    },
+    {
+      "artist_id": "term:747",
+      "identity_key": "id:term:747",
+      "name": "محمدعلی خیارجی قزوینی",
+      "aliases": [
+        "محمدعلی خیارجی قزوینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/747",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdaly-khyarjy-ghzvyny-03b5a16ab167",
+      "skill_path": "../shiaarts-artist-mhmdaly-khyarjy-ghzvyny-03b5a16ab167"
+    },
+    {
+      "artist_id": "term:1213",
+      "identity_key": "id:term:1213",
+      "name": "محمدعلی عطار هروی",
+      "aliases": [
+        "محمدعلی عطار هروی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1213",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdaly-atar-hrvy-a4df9204f68b",
+      "skill_path": "../shiaarts-artist-mhmdaly-atar-hrvy-a4df9204f68b"
+    },
+    {
+      "artist_id": "term:1328",
+      "identity_key": "id:term:1328",
+      "name": "محمدعلی نادری",
+      "aliases": [
+        "محمدعلی نادری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1328",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdaly-nadry-35bdba968894",
+      "skill_path": "../shiaarts-artist-mhmdaly-nadry-35bdba968894"
+    },
+    {
+      "artist_id": "term:756",
+      "identity_key": "id:term:756",
+      "name": "محمدمهدی منصوری",
+      "aliases": [
+        "محمدمهدی منصوری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/756",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdmhdy-mnsvry-a143360c6989",
+      "skill_path": "../shiaarts-artist-mhmdmhdy-mnsvry-a143360c6989"
+    },
+    {
+      "artist_id": "term:1265",
+      "identity_key": "id:term:1265",
+      "name": "محمدیاسین الحسنی المشرفاوی",
+      "aliases": [
+        "محمدیاسین الحسنی المشرفاوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1265",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmdyasyn-alhsny-almshrfavy-4f87128325af",
+      "skill_path": "../shiaarts-artist-mhmdyasyn-alhsny-almshrfavy-4f87128325af"
+    },
+    {
+      "artist_id": "term:740",
+      "identity_key": "id:term:740",
+      "name": "محمود آزادنیا",
+      "aliases": [
+        "محمود آزادنیا"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/740",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmvd-azadnya-83b74667a8df",
+      "skill_path": "../shiaarts-artist-mhmvd-azadnya-83b74667a8df"
+    },
+    {
+      "artist_id": "term:1298",
+      "identity_key": "id:term:1298",
+      "name": "محمود بازدار",
+      "aliases": [
+        "محمود بازدار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1298",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmvd-bazdar-13fef9e44e3d",
+      "skill_path": "../shiaarts-artist-mhmvd-bazdar-13fef9e44e3d"
+    },
+    {
+      "artist_id": "term:762",
+      "identity_key": "id:term:762",
+      "name": "محمود رطیل",
+      "aliases": [
+        "محمود رطیل"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/762",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmvd-rtyl-e401a1ab5bd5",
+      "skill_path": "../shiaarts-artist-mhmvd-rtyl-e401a1ab5bd5"
+    },
+    {
+      "artist_id": "term:230",
+      "identity_key": "id:term:230",
+      "name": "محمود طلایی",
+      "aliases": [
+        "محمود طلایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/230",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmvd-tlayy-f8aaeb964e46",
+      "skill_path": "../shiaarts-artist-mhmvd-tlayy-f8aaeb964e46"
+    },
+    {
+      "artist_id": "term:810",
+      "identity_key": "id:term:810",
+      "name": "محمود فرشچیان",
+      "aliases": [
+        "محمود فرشچیان"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/810",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhmvd-frshchyan-0cffe7b167da",
+      "skill_path": "../shiaarts-artist-mhmvd-frshchyan-0cffe7b167da"
+    },
+    {
+      "artist_id": "term:795",
+      "identity_key": "id:term:795",
+      "name": "مرتضی رحمتی",
+      "aliases": [
+        "مرتضی رحمتی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/795",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mrtzy-rhmty-a8a1642d65c3",
+      "skill_path": "../shiaarts-artist-mrtzy-rhmty-a8a1642d65c3"
+    },
+    {
+      "artist_id": "term:718",
+      "identity_key": "id:term:718",
+      "name": "مرتضی ممیز",
+      "aliases": [
+        "مرتضی ممیز"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/718",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mrtzy-mmyz-ffde222e15ca",
+      "skill_path": "../shiaarts-artist-mrtzy-mmyz-ffde222e15ca"
+    },
+    {
+      "artist_id": "term:849",
+      "identity_key": "id:term:849",
+      "name": "مرتضی میرزایی",
+      "aliases": [
+        "مرتضی میرزایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/849",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mrtzy-myrzayy-edbfd2bc7f20",
+      "skill_path": "../shiaarts-artist-mrtzy-myrzayy-edbfd2bc7f20"
+    },
+    {
+      "artist_id": "term:1423",
+      "identity_key": "id:term:1423",
+      "name": "مرجان جلالی",
+      "aliases": [
+        "مرجان جلالی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1423",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mrjan-jlaly-ac4b0d628baa",
+      "skill_path": "../shiaarts-artist-mrjan-jlaly-ac4b0d628baa"
+    },
+    {
+      "artist_id": "term:224",
+      "identity_key": "id:term:224",
+      "name": "مسعود جزنی",
+      "aliases": [
+        "مسعود جزنی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/224",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-jzny-eddebb0f0e8f",
+      "skill_path": "../shiaarts-artist-msavd-jzny-eddebb0f0e8f"
+    },
+    {
+      "artist_id": "term:206",
+      "identity_key": "id:term:206",
+      "name": "مسعود رستمی",
+      "aliases": [
+        "مسعود رستمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/206",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-rstmy-477c9a7e0d23",
+      "skill_path": "../shiaarts-artist-msavd-rstmy-477c9a7e0d23"
+    },
+    {
+      "artist_id": "term:713",
+      "identity_key": "id:term:713",
+      "name": "مسعود شکیبایی",
+      "aliases": [
+        "مسعود شکیبایی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/713",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-shkybayy-b062e884cd3c",
+      "skill_path": "../shiaarts-artist-msavd-shkybayy-b062e884cd3c"
+    },
+    {
+      "artist_id": "term:141",
+      "identity_key": "id:term:141",
+      "name": "مسعود صفار نژاد",
+      "aliases": [
+        "مسعود صفار نژاد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/141",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-sfar-nzhad-4edc82961912",
+      "skill_path": "../shiaarts-artist-msavd-sfar-nzhad-4edc82961912"
+    },
+    {
+      "artist_id": "term:111",
+      "identity_key": "id:term:111",
+      "name": "مسعود نجابتی",
+      "aliases": [
+        "مسعود نجابتی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/111",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-njabty-00cb17354f70",
+      "skill_path": "../shiaarts-artist-msavd-njabty-00cb17354f70"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D9%86%D8%AC%D8%A7%D8%A8%D8%AA%DB%8C",
+      "name": "مسعود نجابتی",
+      "aliases": [
+        "مسعود نجابتی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D9%86%D8%AC%D8%A7%D8%A8%D8%AA%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 18,
+      "visually_reviewed_work_count": 3,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-msavd-njabty-9779cb86d1ed",
+      "skill_path": "../shiaarts-artist-msavd-njabty-9779cb86d1ed"
+    },
+    {
+      "artist_id": "term:1329",
+      "identity_key": "id:term:1329",
+      "name": "مسعود پورزارعی",
+      "aliases": [
+        "مسعود پورزارعی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1329",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-msavd-pvrzaray-2fa6ea93cbaf",
+      "skill_path": "../shiaarts-artist-msavd-pvrzaray-2fa6ea93cbaf"
+    },
+    {
+      "artist_id": "term:205",
+      "identity_key": "id:term:205",
+      "name": "مصطفی اخواص",
+      "aliases": [
+        "مصطفی اخواص"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/205",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-akhvas-eb8acd4ded87",
+      "skill_path": "../shiaarts-artist-mstfy-akhvas-eb8acd4ded87"
+    },
+    {
+      "artist_id": "term:226",
+      "identity_key": "id:term:226",
+      "name": "مصطفی اسداللهی",
+      "aliases": [
+        "مصطفی اسداللهی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/226",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-asdallhy-e8f07e3ffd0b",
+      "skill_path": "../shiaarts-artist-mstfy-asdallhy-e8f07e3ffd0b"
+    },
+    {
+      "artist_id": "term:184",
+      "identity_key": "id:term:184",
+      "name": "مصطفی برجی",
+      "aliases": [
+        "مصطفی برجی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/184",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-brjy-6fb4d3c44e58",
+      "skill_path": "../shiaarts-artist-mstfy-brjy-6fb4d3c44e58"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D8%A8%D8%B1%D8%AC%DB%8C",
+      "name": "مصطفی برجی",
+      "aliases": [
+        "مصطفی برجی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D8%A8%D8%B1%D8%AC%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 5,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-mstfy-brjy-86f7a1a44dcc",
+      "skill_path": "../shiaarts-artist-mstfy-brjy-86f7a1a44dcc"
+    },
+    {
+      "artist_id": "term:800",
+      "identity_key": "id:term:800",
+      "name": "مصطفی بکر",
+      "aliases": [
+        "مصطفی بکر"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/800",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-bkr-bd38e611f98e",
+      "skill_path": "../shiaarts-artist-mstfy-bkr-bd38e611f98e"
+    },
+    {
+      "artist_id": "term:738",
+      "identity_key": "id:term:738",
+      "name": "مصطفی عزت",
+      "aliases": [
+        "مصطفی عزت"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/738",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-azt-f133a5dcf6be",
+      "skill_path": "../shiaarts-artist-mstfy-azt-f133a5dcf6be"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D8%B9%D8%B2%D8%AA",
+      "name": "مصطفی عزت",
+      "aliases": [
+        "مصطفی عزت"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D8%B9%D8%B2%D8%AA",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-azt-6ccd13ce0580",
+      "skill_path": "../shiaarts-artist-mstfy-azt-6ccd13ce0580"
+    },
+    {
+      "artist_id": "term:245",
+      "identity_key": "id:term:245",
+      "name": "مصطفی معمی‌وند",
+      "aliases": [
+        "مصطفی معمی‌وند"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/245",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-mamy-vnd-b2f0f6ce07a5",
+      "skill_path": "../shiaarts-artist-mstfy-mamy-vnd-b2f0f6ce07a5"
+    },
+    {
+      "artist_id": "term:1424",
+      "identity_key": "id:term:1424",
+      "name": "مصطفی گودرزی",
+      "aliases": [
+        "مصطفی گودرزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1424",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mstfy-gvdrzy-381486637fca",
+      "skill_path": "../shiaarts-artist-mstfy-gvdrzy-381486637fca"
+    },
+    {
+      "artist_id": "term:181",
+      "identity_key": "id:term:181",
+      "name": "ملک محمد قزوینی",
+      "aliases": [
+        "ملک محمد قزوینی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/181",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mlk-mhmd-ghzvyny-213df16a69bc",
+      "skill_path": "../shiaarts-artist-mlk-mhmd-ghzvyny-213df16a69bc"
+    },
+    {
+      "artist_id": "term:842",
+      "identity_key": "id:term:842",
+      "name": "مهدی آگاه‌منش",
+      "aliases": [
+        "مهدی آگاه‌منش"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/842",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-agah-mnsh-f9f1405f62c9",
+      "skill_path": "../shiaarts-artist-mhdy-agah-mnsh-f9f1405f62c9"
+    },
+    {
+      "artist_id": "term:215",
+      "identity_key": "id:term:215",
+      "name": "مهدی سعیدی",
+      "aliases": [
+        "مهدی سعیدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/215",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-saydy-ea6b14f1a309",
+      "skill_path": "../shiaarts-artist-mhdy-saydy-ea6b14f1a309"
+    },
+    {
+      "artist_id": "term:1279",
+      "identity_key": "id:term:1279",
+      "name": "مهدی سهرابی",
+      "aliases": [
+        "مهدی سهرابی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1279",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-shraby-f5d6689cf47f",
+      "skill_path": "../shiaarts-artist-mhdy-shraby-f5d6689cf47f"
+    },
+    {
+      "artist_id": "term:1227",
+      "identity_key": "id:term:1227",
+      "name": "مهدی عسکری",
+      "aliases": [
+        "مهدی عسکری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1227",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-askry-46b7ab4dc2fc",
+      "skill_path": "../shiaarts-artist-mhdy-askry-46b7ab4dc2fc"
+    },
+    {
+      "artist_id": "term:1284",
+      "identity_key": "id:term:1284",
+      "name": "مهدی فرخی",
+      "aliases": [
+        "مهدی فرخی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1284",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-frkhy-b79f8fc60651",
+      "skill_path": "../shiaarts-artist-mhdy-frkhy-b79f8fc60651"
+    },
+    {
+      "artist_id": "term:1285",
+      "identity_key": "id:term:1285",
+      "name": "مهدی فرخی",
+      "aliases": [
+        "مهدی فرخی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1285",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-frkhy-97b33dee3acb",
+      "skill_path": "../shiaarts-artist-mhdy-frkhy-97b33dee3acb"
+    },
+    {
+      "artist_id": "term:1334",
+      "identity_key": "id:term:1334",
+      "name": "مهدی مصطفوی",
+      "aliases": [
+        "مهدی مصطفوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1334",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-mstfvy-18b8220e0804",
+      "skill_path": "../shiaarts-artist-mhdy-mstfvy-18b8220e0804"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D9%87%D8%AF%DB%8C-%D9%85%D8%B5%D8%B7%D9%81%D9%88%DB%8C",
+      "name": "مهدی مصطفوی",
+      "aliases": [
+        "مهدی مصطفوی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%85%D9%87%D8%AF%DB%8C-%D9%85%D8%B5%D8%B7%D9%81%D9%88%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 6,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mhdy-mstfvy-edc5bfb3f738",
+      "skill_path": "../shiaarts-artist-mhdy-mstfvy-edc5bfb3f738"
+    },
+    {
+      "artist_id": "term:210",
+      "identity_key": "id:term:210",
+      "name": "میثم اشعری",
+      "aliases": [
+        "میثم اشعری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/210",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mysm-ashary-6c7b556683cf",
+      "skill_path": "../shiaarts-artist-mysm-ashary-6c7b556683cf"
+    },
+    {
+      "artist_id": "term:703",
+      "identity_key": "id:term:703",
+      "name": "میثم نامدار",
+      "aliases": [
+        "میثم نامدار"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/703",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-mysm-namdar-ebe409f13167",
+      "skill_path": "../shiaarts-artist-mysm-namdar-ebe409f13167"
+    },
+    {
+      "artist_id": "term:1047",
+      "identity_key": "id:term:1047",
+      "name": "میرزا یوسف شاه ولدی",
+      "aliases": [
+        "میرزا یوسف شاه ولدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1047",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-myrza-yvsf-shah-vldy-0cd90a59d8d9",
+      "skill_path": "../shiaarts-artist-myrza-yvsf-shah-vldy-0cd90a59d8d9"
+    },
+    {
+      "artist_id": "term:1043",
+      "identity_key": "id:term:1043",
+      "name": "ناصر طاوسی",
+      "aliases": [
+        "ناصر طاوسی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1043",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-nasr-tavsy-aa82aca0e6bb",
+      "skill_path": "../shiaarts-artist-nasr-tavsy-aa82aca0e6bb"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%86%D8%A7%D8%B5%D8%B1-%D8%B7%D8%A7%D9%88%D9%88%D8%B3%DB%8C-0",
+      "name": "ناصر طاوسی",
+      "aliases": [
+        "ناصر طاوسی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%86%D8%A7%D8%B5%D8%B1-%D8%B7%D8%A7%D9%88%D9%88%D8%B3%DB%8C-0",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 10,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-nasr-tavsy-b6e34cc2a2dd",
+      "skill_path": "../shiaarts-artist-nasr-tavsy-b6e34cc2a2dd"
+    },
+    {
+      "artist_id": "term:1335",
+      "identity_key": "id:term:1335",
+      "name": "نامشخص",
+      "aliases": [
+        "نامشخص"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1335",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-namshkhs-8b550ce6d30a",
+      "skill_path": "../shiaarts-artist-namshkhs-8b550ce6d30a"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%86%D8%A7%D9%85%D8%B4%D8%AE%D8%B5",
+      "name": "نامشخص",
+      "aliases": [
+        "نامشخص"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%86%D8%A7%D9%85%D8%B4%D8%AE%D8%B5",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-namshkhs-e0cb5219e193",
+      "skill_path": "../shiaarts-artist-namshkhs-e0cb5219e193"
+    },
+    {
+      "artist_id": "term:1440",
+      "identity_key": "id:term:1440",
+      "name": "نبیل نور الدین",
+      "aliases": [
+        "نبیل نور الدین"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1440",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-nbyl-nvr-aldyn-aad2cb6f7503",
+      "skill_path": "../shiaarts-artist-nbyl-nvr-aldyn-aad2cb6f7503"
+    },
+    {
+      "artist_id": "term:1457",
+      "identity_key": "id:term:1457",
+      "name": "نجمه سادات رامین",
+      "aliases": [
+        "نجمه سادات رامین"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1457",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-njmh-sadat-ramyn-8cd4fcdeefcb",
+      "skill_path": "../shiaarts-artist-njmh-sadat-ramyn-8cd4fcdeefcb"
+    },
+    {
+      "artist_id": "term:202",
+      "identity_key": "id:term:202",
+      "name": "نصرالله افجه‌ای",
+      "aliases": [
+        "نصرالله افجه‌ای"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/202",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-nsrallh-afjh-ay-0adb49e72c9d",
+      "skill_path": "../shiaarts-artist-nsrallh-afjh-ay-0adb49e72c9d"
+    },
+    {
+      "artist_id": "term:850",
+      "identity_key": "id:term:850",
+      "name": "نوشین صفاخو",
+      "aliases": [
+        "نوشین صفاخو"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/850",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-nvshyn-sfakhv-10b2891a007b",
+      "skill_path": "../shiaarts-artist-nvshyn-sfakhv-10b2891a007b"
+    },
+    {
+      "artist_id": "term:197",
+      "identity_key": "id:term:197",
+      "name": "هاجر سلیمی نمین",
+      "aliases": [
+        "هاجر سلیمی نمین"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/197",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hajr-slymy-nmyn-a31d1104adac",
+      "skill_path": "../shiaarts-artist-hajr-slymy-nmyn-a31d1104adac"
+    },
+    {
+      "artist_id": "term:725",
+      "identity_key": "id:term:725",
+      "name": "هادی معزی",
+      "aliases": [
+        "هادی معزی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/725",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hady-mazy-c12c3751acac",
+      "skill_path": "../shiaarts-artist-hady-mazy-c12c3751acac"
+    },
+    {
+      "artist_id": "term:1316",
+      "identity_key": "id:term:1316",
+      "name": "هادی مهری",
+      "aliases": [
+        "هادی مهری"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1316",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hady-mhry-6dac7b9a78a2",
+      "skill_path": "../shiaarts-artist-hady-mhry-6dac7b9a78a2"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D8%A7%D8%AF%DB%8C-%D9%85%D9%87%D8%B1%DB%8C",
+      "name": "هادی مهری",
+      "aliases": [
+        "هادی مهری"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D8%A7%D8%AF%DB%8C-%D9%85%D9%87%D8%B1%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hady-mhry-6728f1c8b4f2",
+      "skill_path": "../shiaarts-artist-hady-mhry-6728f1c8b4f2"
+    },
+    {
+      "artist_id": "term:708",
+      "identity_key": "id:term:708",
+      "name": "هادی گل محمدی",
+      "aliases": [
+        "هادی گل محمدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/708",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hady-gl-mhmdy-92be239ed24a",
+      "skill_path": "../shiaarts-artist-hady-gl-mhmdy-92be239ed24a"
+    },
+    {
+      "artist_id": "term:1471",
+      "identity_key": "id:term:1471",
+      "name": "هاشم بغدادی",
+      "aliases": [
+        "هاشم بغدادی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1471",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hashm-bghdady-c02aefed3548",
+      "skill_path": "../shiaarts-artist-hashm-bghdady-c02aefed3548"
+    },
+    {
+      "artist_id": "term:1451",
+      "identity_key": "id:term:1451",
+      "name": "همایون مقدس",
+      "aliases": [
+        "همایون مقدس"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1451",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmayvn-mghds-4dca744adc94",
+      "skill_path": "../shiaarts-artist-hmayvn-mghds-4dca744adc94"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D9%85%D8%A7%DB%8C%D9%88%D9%86-%D9%85%D9%82%D8%AF%D8%B3",
+      "name": "همایون مقدس",
+      "aliases": [
+        "همایون مقدس"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D9%85%D8%A7%DB%8C%D9%88%D9%86-%D9%85%D9%82%D8%AF%D8%B3",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hmayvn-mghds-48934799e919",
+      "skill_path": "../shiaarts-artist-hmayvn-mghds-48934799e919"
+    },
+    {
+      "artist_id": "term:1332",
+      "identity_key": "id:term:1332",
+      "name": "هنرمند گمنام",
+      "aliases": [
+        "هنرمند گمنام"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1332",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-hnrmnd-gmnam-c98a0832baac",
+      "skill_path": "../shiaarts-artist-hnrmnd-gmnam-c98a0832baac"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF-%DA%AF%D9%85%D9%86%D8%A7%D9%85",
+      "name": "هنرمند گمنام",
+      "aliases": [
+        "هنرمند گمنام"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF-%DA%AF%D9%85%D9%86%D8%A7%D9%85",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 2,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-hnrmnd-gmnam-6a219d42b04a",
+      "skill_path": "../shiaarts-artist-hnrmnd-gmnam-6a219d42b04a"
+    },
+    {
+      "artist_id": "term:1309",
+      "identity_key": "id:term:1309",
+      "name": "وحید یعقوب‌لو",
+      "aliases": [
+        "وحید یعقوب‌لو"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1309",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-vhyd-yaghvb-lv-0b6798005940",
+      "skill_path": "../shiaarts-artist-vhyd-yaghvb-lv-0b6798005940"
+    },
+    {
+      "artist_id": "term:1479",
+      "identity_key": "id:term:1479",
+      "name": "ویکتور کورتسکی",
+      "aliases": [
+        "ویکتور کورتسکی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1479",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-vyktvr-kvrtsky-66c4badd9551",
+      "skill_path": "../shiaarts-artist-vyktvr-kvrtsky-66c4badd9551"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%88%DB%8C%DA%A9%D8%AA%D9%88%D8%B1-%DA%A9%D9%88%D8%B1%D8%AA%D8%B3%DA%A9%DB%8C",
+      "name": "ویکتور کورتسکی",
+      "aliases": [
+        "ویکتور کورتسکی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%D9%88%DB%8C%DA%A9%D8%AA%D9%88%D8%B1-%DA%A9%D9%88%D8%B1%D8%AA%D8%B3%DA%A9%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-vyktvr-kvrtsky-0b9519943c75",
+      "skill_path": "../shiaarts-artist-vyktvr-kvrtsky-0b9519943c75"
+    },
+    {
+      "artist_id": "term:722",
+      "identity_key": "id:term:722",
+      "name": "پویا سرابی",
+      "aliases": [
+        "پویا سرابی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/722",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-pvya-sraby-a8cf79c7a3d7",
+      "skill_path": "../shiaarts-artist-pvya-sraby-a8cf79c7a3d7"
+    },
+    {
+      "artist_id": "term:1434",
+      "identity_key": "id:term:1434",
+      "name": "کارلوس لاتوف",
+      "aliases": [
+        "کارلوس لاتوف"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1434",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-karlvs-latvf-e2aff7889038",
+      "skill_path": "../shiaarts-artist-karlvs-latvf-e2aff7889038"
+    },
+    {
+      "artist_id": "term:1464",
+      "identity_key": "id:term:1464",
+      "name": "کاظم چلیپا",
+      "aliases": [
+        "کاظم چلیپا"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1464",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-kazm-chlypa-54cb9c30684b",
+      "skill_path": "../shiaarts-artist-kazm-chlypa-54cb9c30684b"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DA%A9%D8%A7%D8%B8%D9%85-%DA%86%D9%84%DB%8C%D9%BE%D8%A7",
+      "name": "کاظم چلیپا",
+      "aliases": [
+        "کاظم چلیپا"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DA%A9%D8%A7%D8%B8%D9%85-%DA%86%D9%84%DB%8C%D9%BE%D8%A7",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-kazm-chlypa-a1475a54a043",
+      "skill_path": "../shiaarts-artist-kazm-chlypa-a1475a54a043"
+    },
+    {
+      "artist_id": "term:189",
+      "identity_key": "id:term:189",
+      "name": "کانون هنر شیعی",
+      "aliases": [
+        "کانون هنر شیعی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/189",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-kanvn-hnr-shyay-f483e70e525c",
+      "skill_path": "../shiaarts-artist-kanvn-hnr-shyay-f483e70e525c"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D9%87%D9%86%D8%B1-%D8%B4%DB%8C%D8%B9%DB%8C",
+      "name": "کانون هنر شیعی",
+      "aliases": [
+        "کانون هنر شیعی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D9%87%D9%86%D8%B1-%D8%B4%DB%8C%D8%B9%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 12,
+      "visually_reviewed_work_count": 2,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-kanvn-hnr-shyay-3928b7d090df",
+      "skill_path": "../shiaarts-artist-kanvn-hnr-shyay-3928b7d090df"
+    },
+    {
+      "artist_id": "term:1453",
+      "identity_key": "id:term:1453",
+      "name": "کریم عرب تهرانی",
+      "aliases": [
+        "کریم عرب تهرانی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1453",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-krym-arb-thrany-59b7ddd04d9c",
+      "skill_path": "../shiaarts-artist-krym-arb-thrany-59b7ddd04d9c"
+    },
+    {
+      "artist_id": "term:1385",
+      "identity_key": "id:term:1385",
+      "name": "کمیل کریمی",
+      "aliases": [
+        "کمیل کریمی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1385",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-kmyl-krymy-e9128b8660cb",
+      "skill_path": "../shiaarts-artist-kmyl-krymy-e9128b8660cb"
+    },
+    {
+      "artist_id": "term:1429",
+      "identity_key": "id:term:1429",
+      "name": "گروه هنرمندان یمن",
+      "aliases": [
+        "گروه هنرمندان یمن"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1429",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-grvh-hnrmndan-ymn-e08ee91a385a",
+      "skill_path": "../shiaarts-artist-grvh-hnrmndan-ymn-e08ee91a385a"
+    },
+    {
+      "artist_id": "term:1426",
+      "identity_key": "id:term:1426",
+      "name": "گروه هنری دارالفنون عراق",
+      "aliases": [
+        "گروه هنری دارالفنون عراق"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1426",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-grvh-hnry-daralfnvn-aragh-b4a424a7185c",
+      "skill_path": "../shiaarts-artist-grvh-hnry-daralfnvn-aragh-b4a424a7185c"
+    },
+    {
+      "artist_id": "term:1409",
+      "identity_key": "id:term:1409",
+      "name": "گروه پلاکت",
+      "aliases": [
+        "گروه پلاکت"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1409",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-grvh-plakt-de76a101ed1f",
+      "skill_path": "../shiaarts-artist-grvh-plakt-de76a101ed1f"
+    },
+    {
+      "artist_id": "term:1492",
+      "identity_key": "id:term:1492",
+      "name": "یاسر العزاوی",
+      "aliases": [
+        "یاسر العزاوی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1492",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-yasr-alazavy-e81c14a07076",
+      "skill_path": "../shiaarts-artist-yasr-alazavy-e81c14a07076"
+    },
+    {
+      "artist_id": null,
+      "identity_key": "url:https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DB%8C%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%B9%D8%B2%D8%A7%D9%88%DB%8C",
+      "name": "یاسر العزاوی",
+      "aliases": [
+        "یاسر العزاوی"
+      ],
+      "source_url": "https://shiaarts.ir/%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D8%AB%D8%B1/%DB%8C%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%B9%D8%B2%D8%A7%D9%88%DB%8C",
+      "directory_listed": false,
+      "credited_roles": [
+        "credited_artist"
+      ],
+      "linked_work_count": 1,
+      "visually_reviewed_work_count": 1,
+      "evidence_status": "visually reviewed evidence available",
+      "skill_name": "shiaarts-artist-yasr-alazavy-6e17c3422ca6",
+      "skill_path": "../shiaarts-artist-yasr-alazavy-6e17c3422ca6"
+    },
+    {
+      "artist_id": "term:1461",
+      "identity_key": "id:term:1461",
+      "name": "یاسر عبدی",
+      "aliases": [
+        "یاسر عبدی"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1461",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-yasr-abdy-d7baa4a436ea",
+      "skill_path": "../shiaarts-artist-yasr-abdy-d7baa4a436ea"
+    },
+    {
+      "artist_id": "term:1456",
+      "identity_key": "id:term:1456",
+      "name": "یوسف احمد",
+      "aliases": [
+        "یوسف احمد"
+      ],
+      "source_url": "https://shiaarts.ir/taxonomy/term/1456",
+      "directory_listed": true,
+      "credited_roles": [],
+      "linked_work_count": 0,
+      "visually_reviewed_work_count": 0,
+      "evidence_status": "not visually reviewed",
+      "skill_name": "shiaarts-artist-yvsf-ahmd-80d72f3ad9af",
+      "skill_path": "../shiaarts-artist-yvsf-ahmd-80d72f3ad9af"
+    }
+  ]
+}

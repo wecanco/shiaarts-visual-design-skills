@@ -1,0 +1,13 @@
+*.sqlite3
+*.sqlite3-*
+http-cache/
+assets/
+crawl-clock.json
+crawl-clock.lock
+*.log
+*.err.log
+*.pid
+.codebase-memory/
+__pycache__/
+contact-sheet-*.jpg
+*.pyc
